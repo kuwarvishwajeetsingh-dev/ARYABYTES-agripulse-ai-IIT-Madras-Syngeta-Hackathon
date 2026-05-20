@@ -181,12 +181,7 @@ const startVoiceRecognition = () => {
   recognition.start();
 };
   return (
-   <div
-  className="min-h-screen flex items-center justify-center bg-cover bg-center"
-  style={{
-    backgroundImage: "url('/background.png')"
-  }}
->
+   <div className="min-h-screen p-8 bg-[#0B1120] text-white overflow-x-hidden">
 
       
       {/* HEADER */}
