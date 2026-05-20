@@ -1,0 +1,501 @@
+district,crop_name,season,cultivation_area_acres,production_tons,crop_health_index
+Dharwad,Maize,Kharif,6934,13806.04,0.69
+Tumakuru,Sugarcane,Whole Year,3452,121215.35,0.85
+Khammam,Sugarcane,Whole Year,16460,615330.42,0.88
+Karimnagar,Rice,Kharif,39397,64492.72,0.53
+Chittoor,Maize,Rabi,11042,23292.05,0.92
+Chittoor,Wheat,Rabi,2840,4723.28,0.7
+Madurai,Wheat,Rabi,1381,2096.95,0.85
+Erode,Rice,Kharif,37087,75323.05,0.7
+Anantapur,Sugarcane,Whole Year,4628,136462.54,0.81
+Nellore,Sugarcane,Whole Year,20811,585813.33,0.79
+Cuddalore,Cotton,Kharif,8686,7992.75,0.85
+Dharwad,Groundnut,Kharif,24133,32254.13,0.83
+Belagavi,Maize,Rabi,7495,16898.53,0.84
+Anantapur,Rice,Kharif,22084,34472.86,0.99
+Cuddalore,Sugarcane,Whole Year,10110,413290.04,0.92
+Chittoor,Sugarcane,Whole Year,9619,268183.12,0.87
+Anantapur,Rice,Kharif,32228,40291.1,0.53
+Khammam,Wheat,Rabi,2155,2883.88,0.58
+Belagavi,Groundnut,Kharif,20181,20858.17,0.9
+Anantapur,Cotton,Kharif,30618,28165.31,0.89
+Nalgonda,Cotton,Kharif,34518,22118.46,0.85
+Mahbubnagar,Sugarcane,Whole Year,21839,948946.39,0.75
+Nizamabad,Wheat,Rabi,2969,3354.61,0.96
+Karimnagar,Sugarcane,Whole Year,17467,612665.83,0.88
+Erode,Sugarcane,Whole Year,22625,721260.28,0.77
+Nalgonda,Sugarcane,Whole Year,15584,694904.89,0.98
+Khammam,Wheat,Rabi,4849,7412.56,0.86
+Nizamabad,Rice,Rabi,42446,95338.35,0.93
+Shimoga,Cotton,Kharif,16708,11663.32,0.78
+Nizamabad,Rice,Rabi,41529,80583.58,0.58
+Coimbatore,Sugarcane,Whole Year,10435,358081.74,0.8
+Khammam,Maize,Rabi,17161,32727.24,0.76
+Kurnool,Wheat,Rabi,732,1020.01,0.45
+Mahbubnagar,Rice,Rabi,15833,24119.0,0.92
+Nalgonda,Rice,Rabi,42384,74964.27,0.68
+Nalgonda,Sugarcane,Whole Year,19672,690370.95,0.86
+Anantapur,Wheat,Rabi,2452,2953.42,0.76
+Anantapur,Groundnut,Kharif,17838,23510.51,0.89
+Nizamabad,Sugarcane,Whole Year,17152,737962.44,0.74
+Coimbatore,Groundnut,Kharif,11150,11667.08,0.81
+Shimoga,Cotton,Kharif,17196,14802.24,0.54
+Kurnool,Cotton,Kharif,27207,17499.69,0.61
+Nellore,Maize,Kharif,14877,33462.27,0.9
+Erode,Sugarcane,Whole Year,5199,167809.88,0.67
+Nalgonda,Groundnut,Kharif,13037,13017.05,0.67
+Shimoga,Cotton,Kharif,9554,5375.42,0.76
+Shimoga,Cotton,Kharif,24691,25630.33,0.78
+Nellore,Groundnut,Kharif,11597,10275.58,0.75
+Mahbubnagar,Groundnut,Rabi,19401,12456.6,0.85
+Mandya,Rice,Kharif,36835,67983.12,0.95
+Coimbatore,Groundnut,Rabi,19344,12448.54,0.79
+Khammam,Wheat,Rabi,1825,3340.85,0.92
+Nalgonda,Wheat,Rabi,2550,3245.75,0.94
+Nellore,Rice,Rabi,57782,116307.37,0.97
+Madurai,Sugarcane,Whole Year,21095,900320.03,0.76
+Erode,Groundnut,Kharif,15870,17878.89,0.85
+Khammam,Groundnut,Kharif,17248,22438.67,0.83
+Belagavi,Sugarcane,Whole Year,15219,647364.5,0.85
+Anantapur,Rice,Rabi,29725,58322.66,0.65
+Coimbatore,Rice,Rabi,43718,78803.11,0.72
+Madurai,Cotton,Kharif,29736,27867.33,0.86
+Mahbubnagar,Cotton,Kharif,24364,28248.12,0.88
+Kurnool,Cotton,Kharif,46225,38380.71,0.9
+Thanjavur,Sugarcane,Whole Year,10768,441249.11,0.87
+Nizamabad,Groundnut,Rabi,11372,12165.01,0.95
+Coimbatore,Cotton,Kharif,32143,28452.38,0.9
+Thanjavur,Groundnut,Kharif,12645,11367.59,0.85
+Madurai,Cotton,Kharif,28181,23254.96,0.76
+Erode,Cotton,Kharif,20080,11188.76,0.86
+Dharwad,Wheat,Rabi,1973,2870.12,0.73
+Cuddalore,Maize,Kharif,15789,33084.82,0.7
+Chittoor,Sugarcane,Whole Year,10834,291229.15,0.64
+Thanjavur,Wheat,Rabi,1782,1833.58,0.91
+Thanjavur,Maize,Kharif,17073,40177.16,0.85
+Mahbubnagar,Groundnut,Rabi,10921,12001.9,0.92
+Thanjavur,Maize,Kharif,12521,34062.28,0.86
+Chittoor,Maize,Kharif,6221,17970.07,0.94
+Nizamabad,Wheat,Rabi,4698,7712.95,0.87
+Nellore,Wheat,Rabi,4097,6104.11,0.74
+Shimoga,Rice,Rabi,37663,78938.32,0.83
+Khammam,Rice,Kharif,20355,47875.38,0.85
+Tumakuru,Cotton,Kharif,11760,10332.21,0.7
+Anantapur,Groundnut,Kharif,44434,47227.09,0.85
+Erode,Maize,Kharif,6039,16207.66,0.91
+Mahbubnagar,Sugarcane,Whole Year,15441,447316.69,0.68
+Cuddalore,Cotton,Kharif,33576,21419.89,0.93
+Coimbatore,Maize,Rabi,18700,30116.43,0.81
+Mandya,Wheat,Rabi,4598,7005.28,0.86
+Mahbubnagar,Groundnut,Kharif,7314,6981.1,0.92
+Thanjavur,Wheat,Rabi,2058,2528.72,0.93
+Dharwad,Maize,Rabi,4542,9063.5,0.92
+Khammam,Maize,Kharif,6378,13418.17,0.79
+Mahbubnagar,Sugarcane,Whole Year,20595,884479.75,0.98
+Anantapur,Wheat,Rabi,3713,4959.96,0.75
+Tumakuru,Groundnut,Kharif,28706,17959.38,0.84
+Nizamabad,Groundnut,Rabi,6650,5164.63,0.87
+Guntur,Sugarcane,Whole Year,17360,738829.21,0.83
+Kurnool,Maize,Kharif,6257,16807.7,0.84
+Nalgonda,Groundnut,Kharif,19992,16375.16,0.88
+Coimbatore,Maize,Kharif,9523,25202.13,0.61
+Khammam,Cotton,Kharif,23275,20193.89,0.78
+Chittoor,Groundnut,Kharif,12189,8969.35,0.85
+Thanjavur,Wheat,Rabi,4614,7241.98,0.92
+Shimoga,Wheat,Rabi,1115,1701.76,0.74
+Madurai,Cotton,Kharif,12489,9093.17,0.78
+Kurnool,Rice,Kharif,16884,28743.22,0.87
+Thanjavur,Rice,Rabi,56172,98103.11,0.9
+Thanjavur,Cotton,Kharif,20411,24609.26,0.92
+Khammam,Maize,Rabi,19330,45645.74,0.6
+Nizamabad,Rice,Rabi,13848,28659.31,0.81
+Madurai,Groundnut,Kharif,13136,11376.03,0.7
+Khammam,Wheat,Rabi,3183,3122.47,0.92
+Khammam,Maize,Kharif,14586,34842.16,0.81
+Erode,Groundnut,Rabi,28537,33962.26,0.93
+Cuddalore,Rice,Rabi,8667,16227.57,0.98
+Nizamabad,Maize,Rabi,7737,15927.96,0.79
+Nellore,Sugarcane,Whole Year,20732,589239.18,0.84
+Mahbubnagar,Groundnut,Rabi,11536,9381.85,0.86
+Cuddalore,Rice,Kharif,42110,89196.59,0.92
+Cuddalore,Rice,Kharif,40796,63617.6,0.67
+Chittoor,Maize,Rabi,16952,30752.33,0.62
+Nellore,Cotton,Kharif,22380,20995.54,0.86
+Anantapur,Wheat,Rabi,2845,3047.78,0.73
+Shimoga,Maize,Kharif,15183,36712.42,0.85
+Thanjavur,Groundnut,Rabi,27808,22470.82,0.65
+Tumakuru,Cotton,Kharif,25118,24059.3,0.87
+Cuddalore,Wheat,Rabi,3891,4127.29,0.72
+Khammam,Cotton,Kharif,20786,12794.49,0.53
+Anantapur,Wheat,Rabi,2173,2849.61,0.69
+Guntur,Groundnut,Kharif,9926,10785.4,0.74
+Guntur,Rice,Rabi,11042,18886.66,0.86
+Guntur,Sugarcane,Whole Year,12005,420308.65,0.76
+Cuddalore,Maize,Rabi,12691,28137.79,0.85
+Dharwad,Sugarcane,Whole Year,20529,647044.24,0.87
+Dharwad,Rice,Rabi,32422,58717.31,0.78
+Tumakuru,Sugarcane,Whole Year,24655,1116768.61,0.93
+Thanjavur,Groundnut,Kharif,26642,19342.32,0.77
+Karimnagar,Rice,Rabi,36032,60943.22,0.86
+Belagavi,Cotton,Kharif,26615,24054.78,0.71
+Belagavi,Rice,Rabi,29664,55426.77,0.58
+Cuddalore,Sugarcane,Whole Year,13656,393207.93,0.63
+Shimoga,Wheat,Rabi,867,1142.61,0.83
+Nizamabad,Sugarcane,Whole Year,8026,200985.74,0.66
+Coimbatore,Rice,Rabi,43431,94247.21,0.89
+Nizamabad,Rice,Kharif,28147,64386.18,0.92
+Shimoga,Sugarcane,Whole Year,16031,635836.93,0.75
+Shimoga,Maize,Rabi,19542,52127.56,0.87
+Dharwad,Rice,Rabi,28718,57859.02,0.92
+Tumakuru,Maize,Rabi,10346,21328.1,0.87
+Coimbatore,Wheat,Rabi,1155,1433.66,0.97
+Thanjavur,Groundnut,Kharif,21931,25698.08,0.88
+Karimnagar,Cotton,Kharif,34640,22490.96,0.86
+Nellore,Rice,Kharif,36902,44075.11,0.54
+Dharwad,Sugarcane,Whole Year,13754,463860.77,0.71
+Tumakuru,Cotton,Kharif,13085,8993.82,0.71
+Thanjavur,Cotton,Kharif,8472,5752.87,0.9
+Kurnool,Rice,Kharif,13627,26002.97,0.51
+Belagavi,Rice,Kharif,21276,45465.75,0.79
+Madurai,Maize,Rabi,11010,26212.56,0.89
+Anantapur,Maize,Rabi,10338,17928.52,0.54
+Thanjavur,Sugarcane,Whole Year,8717,381349.94,0.81
+Coimbatore,Groundnut,Rabi,18638,23392.66,0.96
+Thanjavur,Groundnut,Kharif,10698,12706.92,0.76
+Chittoor,Wheat,Rabi,2686,3536.69,0.89
+Kurnool,Wheat,Rabi,3722,5276.07,0.95
+Erode,Rice,Rabi,12409,20660.49,0.71
+Cuddalore,Sugarcane,Whole Year,3056,93465.57,0.56
+Shimoga,Rice,Rabi,15225,36148.95,0.94
+Shimoga,Rice,Kharif,28464,39613.76,0.91
+Cuddalore,Sugarcane,Whole Year,16356,583570.33,0.67
+Guntur,Groundnut,Rabi,15703,11101.55,0.93
+Belagavi,Cotton,Kharif,32449,22836.78,0.65
+Belagavi,Rice,Kharif,7776,15498.64,0.77
+Nizamabad,Sugarcane,Whole Year,14725,425090.96,0.64
+Coimbatore,Cotton,Kharif,33855,21614.56,0.95
+Nalgonda,Maize,Kharif,8813,23559.38,0.99
+Karimnagar,Maize,Kharif,17472,34607.92,0.88
+Belagavi,Maize,Rabi,5009,10097.94,0.9
+Anantapur,Sugarcane,Whole Year,21156,694747.16,0.68
+Coimbatore,Rice,Rabi,26589,36849.01,0.74
+Madurai,Rice,Kharif,21119,47361.29,0.96
+Anantapur,Maize,Kharif,11792,24267.61,0.93
+Chittoor,Groundnut,Rabi,18146,21131.86,0.82
+Belagavi,Groundnut,Kharif,20870,24333.98,0.79
+Cuddalore,Rice,Kharif,14567,28088.77,0.91
+Kurnool,Maize,Kharif,7662,21203.71,0.85
+Nellore,Maize,Kharif,11196,30613.36,0.92
+Chittoor,Wheat,Rabi,2666,2944.48,0.55
+Nizamabad,Groundnut,Kharif,10772,11368.04,0.79
+Kurnool,Cotton,Kharif,23472,21551.51,0.98
+Erode,Rice,Kharif,9085,15610.96,0.82
+Thanjavur,Cotton,Kharif,18431,17258.11,0.75
+Coimbatore,Rice,Kharif,32209,41651.32,0.78
+Nellore,Maize,Kharif,10201,25129.3,0.91
+Shimoga,Wheat,Rabi,871,1384.98,0.66
+Guntur,Rice,Rabi,29600,70618.45,0.78
+Coimbatore,Sugarcane,Whole Year,24559,822482.07,0.77
+Cuddalore,Rice,Rabi,28941,41373.31,0.75
+Karimnagar,Groundnut,Rabi,10739,14184.16,0.87
+Mandya,Cotton,Kharif,25173,20612.37,0.96
+Erode,Cotton,Kharif,10914,9499.94,0.94
+Anantapur,Sugarcane,Whole Year,9546,328689.37,0.73
+Shimoga,Cotton,Kharif,8251,5688.89,0.86
+Madurai,Sugarcane,Whole Year,7136,239118.41,0.73
+Khammam,Wheat,Rabi,1411,1865.58,0.97
+Nellore,Cotton,Kharif,17944,12718.0,0.66
+Tumakuru,Groundnut,Rabi,20870,15109.87,0.89
+Karimnagar,Maize,Rabi,13655,29374.23,0.95
+Erode,Maize,Rabi,19711,37770.97,0.85
+Anantapur,Cotton,Kharif,18028,12191.99,0.82
+Belagavi,Maize,Rabi,16570,37392.89,0.73
+Karimnagar,Groundnut,Rabi,14028,16615.59,0.79
+Madurai,Cotton,Kharif,31563,21965.51,0.61
+Kurnool,Wheat,Rabi,3775,3583.33,0.56
+Karimnagar,Rice,Rabi,5536,12813.86,0.9
+Shimoga,Rice,Kharif,15725,25400.88,0.61
+Belagavi,Cotton,Kharif,27776,24878.77,0.8
+Nizamabad,Groundnut,Kharif,23403,29340.97,0.93
+Anantapur,Cotton,Kharif,27440,27253.32,0.71
+Thanjavur,Rice,Kharif,43307,72284.59,0.8
+Nalgonda,Rice,Rabi,8902,15323.27,0.54
+Shimoga,Sugarcane,Whole Year,4143,144939.44,0.88
+Cuddalore,Groundnut,Kharif,27109,28132.4,0.81
+Guntur,Maize,Kharif,10251,18052.68,0.83
+Thanjavur,Maize,Rabi,5504,12174.6,0.79
+Madurai,Cotton,Kharif,12264,12971.52,0.92
+Tumakuru,Wheat,Rabi,1133,1512.66,0.94
+Mandya,Maize,Kharif,12083,26688.83,0.81
+Belagavi,Cotton,Kharif,19542,20168.47,0.82
+Nellore,Sugarcane,Whole Year,9259,292730.72,0.79
+Cuddalore,Maize,Rabi,9024,16520.68,0.87
+Anantapur,Groundnut,Kharif,16933,15886.19,0.63
+Nellore,Maize,Kharif,17499,40025.74,0.84
+Karimnagar,Maize,Kharif,17392,29688.19,0.59
+Guntur,Rice,Kharif,21332,34187.85,0.88
+Mahbubnagar,Rice,Rabi,31829,71406.03,0.85
+Guntur,Sugarcane,Whole Year,24489,955072.16,0.83
+Nalgonda,Rice,Kharif,43911,83319.63,0.71
+Mahbubnagar,Maize,Rabi,7495,16792.17,0.86
+Madurai,Sugarcane,Whole Year,4633,191816.34,0.73
+Madurai,Wheat,Rabi,4515,4509.53,0.89
+Madurai,Cotton,Kharif,23480,23618.3,0.9
+Mandya,Maize,Kharif,17268,32550.01,0.69
+Cuddalore,Rice,Kharif,40700,77804.6,0.79
+Dharwad,Maize,Rabi,7746,15426.87,0.89
+Nizamabad,Rice,Kharif,23899,39423.58,0.76
+Tumakuru,Wheat,Rabi,3248,2800.55,0.77
+Thanjavur,Maize,Rabi,8558,14609.89,0.91
+Nellore,Rice,Kharif,49046,88448.71,0.78
+Thanjavur,Groundnut,Kharif,12593,15311.96,0.98
+Nalgonda,Rice,Kharif,33737,66986.47,0.6
+Khammam,Maize,Rabi,8107,18783.64,0.78
+Khammam,Rice,Rabi,8207,14633.0,0.85
+Shimoga,Wheat,Rabi,3362,3568.73,0.74
+Belagavi,Sugarcane,Whole Year,14747,522668.41,0.84
+Nellore,Groundnut,Rabi,19407,19949.72,0.7
+Guntur,Groundnut,Kharif,19020,19299.21,0.96
+Mandya,Sugarcane,Whole Year,20550,590273.74,0.66
+Nellore,Maize,Kharif,18241,29998.15,0.72
+Khammam,Rice,Rabi,38885,55004.79,0.86
+Nizamabad,Groundnut,Rabi,6660,4473.11,0.88
+Shimoga,Sugarcane,Whole Year,3513,120217.7,0.97
+Nellore,Sugarcane,Whole Year,29308,1019172.63,0.95
+Khammam,Groundnut,Rabi,10040,10246.73,0.78
+Madurai,Maize,Kharif,19462,42265.8,0.77
+Thanjavur,Maize,Kharif,16518,38233.36,0.85
+Tumakuru,Maize,Kharif,11608,26905.2,0.7
+Thanjavur,Maize,Kharif,16707,40266.68,0.86
+Kurnool,Wheat,Rabi,2850,2981.33,0.44
+Madurai,Sugarcane,Whole Year,11966,317493.39,0.68
+Karimnagar,Groundnut,Kharif,21364,16464.16,0.94
+Nalgonda,Cotton,Kharif,20874,13347.26,0.61
+Chittoor,Rice,Rabi,34322,46198.69,0.88
+Tumakuru,Groundnut,Rabi,21804,18791.85,0.76
+Kurnool,Wheat,Rabi,610,733.26,0.64
+Mahbubnagar,Sugarcane,Whole Year,22116,880743.26,0.87
+Chittoor,Sugarcane,Whole Year,20676,601093.15,0.57
+Mandya,Wheat,Rabi,4905,7154.48,0.63
+Shimoga,Cotton,Kharif,30178,18640.89,0.67
+Cuddalore,Wheat,Rabi,3034,3518.29,0.89
+Chittoor,Sugarcane,Whole Year,8974,358241.76,0.76
+Tumakuru,Rice,Rabi,14872,27233.67,0.92
+Coimbatore,Maize,Rabi,18515,31704.7,0.93
+Anantapur,Maize,Kharif,17507,29867.28,0.71
+Thanjavur,Rice,Rabi,43032,60094.32,0.82
+Nalgonda,Maize,Rabi,10923,19292.87,0.75
+Nizamabad,Groundnut,Kharif,15979,16164.31,0.57
+Erode,Groundnut,Rabi,15473,10082.87,0.86
+Erode,Rice,Kharif,9460,14927.82,0.67
+Khammam,Maize,Rabi,10618,16350.19,0.64
+Kurnool,Cotton,Kharif,30819,25633.12,0.58
+Shimoga,Sugarcane,Whole Year,11416,388247.15,0.81
+Dharwad,Maize,Kharif,9947,28073.65,0.82
+Tumakuru,Groundnut,Rabi,9655,8245.65,0.77
+Coimbatore,Cotton,Kharif,23719,22558.68,0.87
+Coimbatore,Cotton,Kharif,32194,27816.15,0.68
+Thanjavur,Sugarcane,Whole Year,27062,784904.29,0.76
+Khammam,Cotton,Kharif,8211,7391.74,0.94
+Belagavi,Wheat,Rabi,4131,4590.79,0.98
+Coimbatore,Groundnut,Kharif,22184,22608.81,0.88
+Kurnool,Sugarcane,Whole Year,13961,520182.78,0.83
+Belagavi,Wheat,Rabi,558,779.97,0.79
+Nalgonda,Cotton,Kharif,34110,23204.0,0.82
+Khammam,Sugarcane,Whole Year,24123,911983.32,0.82
+Shimoga,Sugarcane,Whole Year,4013,121560.35,0.86
+Guntur,Maize,Kharif,4007,8729.28,0.73
+Karimnagar,Groundnut,Rabi,28042,24672.12,0.98
+Nizamabad,Maize,Kharif,7846,13360.27,0.97
+Chittoor,Groundnut,Kharif,28811,28091.95,0.57
+Dharwad,Cotton,Kharif,32099,21072.86,0.73
+Mandya,Sugarcane,Whole Year,20882,883992.83,0.97
+Cuddalore,Sugarcane,Whole Year,21388,676856.53,0.78
+Karimnagar,Groundnut,Kharif,15403,12765.0,0.58
+Tumakuru,Wheat,Rabi,545,781.28,0.91
+Erode,Cotton,Kharif,16179,12250.14,0.63
+Kurnool,Wheat,Rabi,2269,3187.12,0.9
+Mandya,Rice,Kharif,39178,58938.28,0.78
+Khammam,Rice,Kharif,25355,55610.35,0.68
+Dharwad,Groundnut,Rabi,14270,10826.71,0.8
+Nalgonda,Groundnut,Kharif,19183,19053.95,0.56
+Thanjavur,Maize,Kharif,4182,9413.38,0.5
+Anantapur,Rice,Rabi,7066,14912.21,0.77
+Coimbatore,Sugarcane,Whole Year,22345,838517.62,0.72
+Tumakuru,Wheat,Rabi,3311,3810.21,0.88
+Khammam,Wheat,Rabi,2003,2301.56,0.87
+Mahbubnagar,Wheat,Rabi,1996,2834.45,0.75
+Madurai,Sugarcane,Whole Year,20275,599232.35,0.82
+Mandya,Groundnut,Rabi,22909,18647.08,0.92
+Nalgonda,Cotton,Kharif,15761,9714.56,0.69
+Mandya,Wheat,Rabi,3631,5155.37,0.83
+Shimoga,Rice,Kharif,31882,48299.69,0.95
+Shimoga,Groundnut,Kharif,11114,12124.42,0.95
+Dharwad,Rice,Kharif,23010,49938.63,0.78
+Khammam,Cotton,Kharif,8224,6114.98,0.77
+Mandya,Sugarcane,Whole Year,4158,129949.5,0.59
+Khammam,Groundnut,Kharif,7200,5593.23,0.88
+Thanjavur,Groundnut,Rabi,23585,30530.0,0.87
+Mahbubnagar,Maize,Kharif,8532,22454.94,0.8
+Madurai,Cotton,Kharif,19542,21376.71,0.72
+Nizamabad,Sugarcane,Whole Year,12995,449144.16,0.79
+Nellore,Maize,Rabi,17195,34792.6,0.81
+Kurnool,Maize,Kharif,8496,15300.33,0.82
+Khammam,Cotton,Kharif,33448,28884.48,0.71
+Coimbatore,Maize,Kharif,12240,31685.9,0.95
+Nellore,Maize,Rabi,9670,19813.61,0.77
+Nellore,Cotton,Kharif,31878,24388.24,0.98
+Erode,Wheat,Rabi,2231,2718.45,0.52
+Anantapur,Wheat,Rabi,586,559.3,0.83
+Mandya,Cotton,Kharif,24409,18411.36,0.86
+Tumakuru,Sugarcane,Whole Year,15251,485156.74,0.6
+Nizamabad,Cotton,Kharif,19122,13881.34,0.54
+Dharwad,Cotton,Kharif,21831,25356.16,0.85
+Khammam,Sugarcane,Whole Year,4519,118481.42,0.65
+Mandya,Rice,Kharif,49212,89227.88,0.98
+Chittoor,Rice,Kharif,24373,34003.99,0.58
+Tumakuru,Wheat,Rabi,2656,4037.67,0.65
+Erode,Groundnut,Rabi,16403,14990.6,0.98
+Kurnool,Sugarcane,Whole Year,11128,462551.9,0.79
+Mandya,Maize,Kharif,16871,42603.29,0.89
+Erode,Wheat,Rabi,4113,5583.72,0.78
+Mandya,Maize,Rabi,15999,40814.01,0.69
+Shimoga,Maize,Rabi,10639,25871.05,0.75
+Coimbatore,Cotton,Kharif,21690,21138.35,0.66
+Khammam,Wheat,Rabi,3615,3743.49,0.77
+Madurai,Groundnut,Kharif,20287,20911.99,0.73
+Karimnagar,Cotton,Kharif,26871,17140.52,0.89
+Guntur,Groundnut,Rabi,6935,6199.0,0.73
+Tumakuru,Groundnut,Rabi,8263,10184.25,0.73
+Shimoga,Sugarcane,Whole Year,24947,697420.88,0.87
+Mahbubnagar,Wheat,Rabi,3047,4870.69,0.92
+Kurnool,Sugarcane,Whole Year,3117,98234.89,0.97
+Mahbubnagar,Sugarcane,Whole Year,17874,487234.77,0.46
+Nellore,Sugarcane,Whole Year,17321,703294.02,0.8
+Thanjavur,Groundnut,Rabi,14698,17673.48,0.88
+Mahbubnagar,Rice,Rabi,37410,59093.86,0.94
+Anantapur,Sugarcane,Whole Year,18392,593143.74,0.96
+Belagavi,Cotton,Kharif,32875,19958.95,0.99
+Khammam,Maize,Rabi,7940,19230.83,0.87
+Mandya,Sugarcane,Whole Year,9635,421560.47,0.85
+Madurai,Maize,Rabi,5072,8898.93,0.86
+Nizamabad,Maize,Rabi,7669,15863.74,0.89
+Tumakuru,Maize,Rabi,6489,17136.28,0.93
+Kurnool,Groundnut,Kharif,7501,8677.53,0.88
+Chittoor,Sugarcane,Whole Year,15394,468807.38,0.81
+Nalgonda,Maize,Rabi,18006,33858.01,0.76
+Erode,Rice,Rabi,26889,43038.43,0.93
+Mandya,Maize,Rabi,7122,18263.75,0.85
+Guntur,Cotton,Kharif,15858,17977.5,0.85
+Belagavi,Sugarcane,Whole Year,19197,761252.86,0.65
+Belagavi,Wheat,Rabi,4346,7244.34,0.87
+Belagavi,Wheat,Rabi,1143,1702.58,0.91
+Nellore,Wheat,Rabi,4948,7217.48,0.86
+Erode,Cotton,Kharif,29400,20147.08,0.8
+Tumakuru,Cotton,Kharif,33609,26238.48,0.77
+Nalgonda,Cotton,Kharif,28531,26654.2,0.79
+Thanjavur,Groundnut,Rabi,10906,9637.41,0.81
+Karimnagar,Wheat,Rabi,2980,3668.97,0.89
+Cuddalore,Maize,Kharif,16374,28256.24,0.78
+Khammam,Rice,Rabi,27258,48074.36,0.81
+Mahbubnagar,Wheat,Rabi,893,981.71,0.95
+Dharwad,Maize,Kharif,13783,34221.68,0.57
+Khammam,Sugarcane,Whole Year,10474,393855.96,0.93
+Guntur,Wheat,Rabi,855,1272.03,0.77
+Nalgonda,Cotton,Kharif,33073,28027.82,0.94
+Shimoga,Rice,Rabi,30900,74628.83,0.84
+Guntur,Maize,Kharif,14616,39217.53,0.91
+Nalgonda,Rice,Rabi,12624,20639.56,0.91
+Anantapur,Maize,Rabi,14914,26680.26,0.71
+Coimbatore,Maize,Kharif,18904,36273.03,0.68
+Khammam,Sugarcane,Whole Year,20621,841509.62,0.92
+Mandya,Sugarcane,Whole Year,20912,649080.17,0.6
+Mandya,Cotton,Kharif,19643,15008.56,0.81
+Cuddalore,Rice,Kharif,10515,24753.19,0.82
+Cuddalore,Rice,Kharif,27292,50053.24,0.87
+Tumakuru,Groundnut,Kharif,25766,23301.81,0.73
+Belagavi,Sugarcane,Whole Year,17441,523234.84,0.74
+Mahbubnagar,Sugarcane,Whole Year,3968,155317.94,0.94
+Khammam,Sugarcane,Whole Year,24169,726156.77,0.83
+Kurnool,Sugarcane,Whole Year,3641,131692.0,0.92
+Tumakuru,Sugarcane,Whole Year,8771,273932.69,0.98
+Belagavi,Cotton,Kharif,9162,7922.04,0.91
+Madurai,Maize,Rabi,16290,35972.65,0.9
+Belagavi,Sugarcane,Whole Year,15306,417505.74,0.66
+Belagavi,Sugarcane,Whole Year,23828,715393.23,0.92
+Madurai,Rice,Rabi,9815,16613.65,0.82
+Chittoor,Groundnut,Rabi,16035,17968.23,0.86
+Chittoor,Cotton,Kharif,14312,15300.39,0.85
+Thanjavur,Rice,Kharif,26930,40816.96,0.81
+Coimbatore,Maize,Kharif,13059,30331.74,0.82
+Madurai,Maize,Rabi,10567,17445.3,0.86
+Kurnool,Maize,Rabi,9399,21410.47,0.99
+Mahbubnagar,Groundnut,Rabi,11006,9327.34,0.79
+Nalgonda,Cotton,Kharif,9530,7827.29,0.69
+Karimnagar,Maize,Kharif,8756,24578.49,0.93
+Kurnool,Cotton,Kharif,26206,17427.09,0.88
+Shimoga,Rice,Rabi,25184,50070.6,0.91
+Chittoor,Sugarcane,Whole Year,12046,371827.15,0.65
+Thanjavur,Rice,Kharif,35421,63867.76,0.57
+Thanjavur,Cotton,Kharif,26193,22040.69,0.61
+Karimnagar,Wheat,Rabi,1145,1544.14,0.64
+Cuddalore,Groundnut,Rabi,9143,11452.83,0.9
+Coimbatore,Cotton,Kharif,8369,5544.49,0.95
+Madurai,Cotton,Kharif,9361,4962.32,0.75
+Nizamabad,Wheat,Rabi,4100,6551.78,0.89
+Kurnool,Rice,Rabi,32054,49949.21,0.83
+Kurnool,Groundnut,Rabi,9066,10013.76,0.82
+Madurai,Maize,Kharif,17304,46723.25,0.89
+Cuddalore,Sugarcane,Whole Year,3000,119894.89,0.95
+Karimnagar,Sugarcane,Whole Year,22773,899348.73,0.83
+Tumakuru,Rice,Rabi,10520,24275.32,0.93
+Cuddalore,Rice,Kharif,24561,47722.13,0.6
+Coimbatore,Maize,Rabi,15209,34222.51,0.86
+Karimnagar,Groundnut,Kharif,26399,24766.75,0.87
+Mahbubnagar,Sugarcane,Whole Year,15882,420062.5,0.66
+Belagavi,Wheat,Rabi,3193,3483.92,0.88
+Kurnool,Rice,Rabi,33069,49251.89,0.75
+Karimnagar,Wheat,Rabi,3326,4926.65,0.93
+Nizamabad,Maize,Kharif,19509,38210.62,0.88
+Khammam,Sugarcane,Whole Year,12938,439756.37,0.9
+Cuddalore,Groundnut,Rabi,16978,12575.86,0.98
+Shimoga,Cotton,Kharif,15086,9082.97,0.86
+Kurnool,Rice,Kharif,28809,52971.23,0.96
+Madurai,Rice,Rabi,11883,22719.89,0.75
+Madurai,Cotton,Kharif,20687,22095.41,0.89
+Dharwad,Groundnut,Kharif,13754,16412.96,0.88
+Nizamabad,Wheat,Rabi,4711,4184.43,0.49
+Coimbatore,Groundnut,Kharif,19605,13636.1,0.85
+Nizamabad,Maize,Rabi,7461,19067.11,0.79
+Coimbatore,Wheat,Rabi,2597,2489.85,0.88
+Erode,Wheat,Rabi,768,996.65,0.81
+Cuddalore,Sugarcane,Whole Year,7058,256545.18,0.92
+Tumakuru,Cotton,Kharif,11923,10222.43,0.6
+Dharwad,Wheat,Rabi,4200,6123.25,1.0
+Khammam,Rice,Rabi,11795,22811.19,0.87
+Cuddalore,Groundnut,Kharif,7127,4870.76,0.79
+Cuddalore,Rice,Rabi,31118,51365.04,0.72
+Karimnagar,Wheat,Rabi,3278,5071.29,0.91
+Cuddalore,Rice,Kharif,36297,55696.3,0.77
+Mahbubnagar,Sugarcane,Whole Year,24520,857019.81,0.87
+Mahbubnagar,Maize,Kharif,5087,12638.19,0.91
+Nalgonda,Maize,Rabi,16302,26622.01,0.41
+Thanjavur,Sugarcane,Whole Year,15865,589746.82,0.98
+Erode,Maize,Rabi,5106,11404.76,0.69
+Erode,Rice,Kharif,12830,25292.28,0.74
+Mandya,Cotton,Kharif,15780,9267.65,0.85
+Tumakuru,Sugarcane,Whole Year,6837,225132.17,0.77
+Anantapur,Maize,Kharif,4361,10536.83,0.71
+Nalgonda,Wheat,Rabi,4608,4646.63,0.69
+Erode,Wheat,Rabi,3153,4032.25,0.92
+Mandya,Maize,Kharif,17815,43605.64,0.88
+Nellore,Maize,Kharif,14608,31281.72,0.82
+Nalgonda,Wheat,Rabi,757,764.51,0.94
+Dharwad,Groundnut,Kharif,15262,12359.91,0.89
+Erode,Cotton,Kharif,34060,21715.8,0.96
+Karimnagar,Groundnut,Kharif,15558,19787.62,0.85
+Coimbatore,Sugarcane,Whole Year,21614,618205.43,0.88
+Nalgonda,Maize,Kharif,18007,35459.4,0.9
+Belagavi,Groundnut,Rabi,13958,13051.18,0.9
+Belagavi,Groundnut,Rabi,16689,20018.58,0.89
+Dharwad,Rice,Kharif,33201,45213.37,0.74

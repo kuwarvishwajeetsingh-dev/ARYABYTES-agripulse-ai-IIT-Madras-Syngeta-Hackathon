@@ -1,0 +1,451 @@
+district,crop_name,disease_name,risk_level,reported_cases,date,recommended_action
+Belagavi,Wheat,Stem Rust,Critical,224,2024-01-01,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Madurai,Wheat,Stem Rust,Low,33,2024-01-07,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Karimnagar,Wheat,Leaf Blight,Medium,104,2024-01-07,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Guntur,Wheat,Leaf Blight,Low,22,2024-01-17,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Thanjavur,Wheat,Stem Rust,Medium,105,2024-01-20,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Thanjavur,Wheat,Stem Rust,High,35,2024-01-22,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Cuddalore,Wheat,Stem Rust,Medium,83,2024-01-24,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Thanjavur,Wheat,Leaf Blight,Critical,162,2024-02-02,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Mahbubnagar,Wheat,Leaf Blight,Medium,67,2024-02-13,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Thanjavur,Wheat,Leaf Blight,Critical,125,2024-02-15,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Khammam,Wheat,Stem Rust,Low,11,2024-02-19,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Thanjavur,Wheat,Leaf Blight,Medium,80,2024-02-26,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Coimbatore,Rice,Brown Plant Hopper (BPH),Low,23,2024-06-02,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Mahbubnagar,Sugarcane,Red Rot,Low,12,2024-06-04,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Tumakuru,Cotton,Boll Rot,High,79,2024-06-07,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Nellore,Cotton,Whitefly,Medium,33,2024-06-08,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Karimnagar,Cotton,Pink Bollworm,High,53,2024-06-09,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Nellore,Groundnut,Bud Necrosis,Low,7,2024-06-11,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Guntur,Rice,Brown Plant Hopper (BPH),High,90,2024-06-13,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Kurnool,Cotton,Pink Bollworm,Low,27,2024-06-14,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Kurnool,Sugarcane,Sugarcane Aphids,Low,7,2024-06-18,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Thanjavur,Groundnut,Bud Necrosis,Low,6,2024-06-21,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Tumakuru,Sugarcane,Smut,Low,6,2024-06-22,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Erode,Sugarcane,Sugarcane Aphids,Low,3,2024-06-23,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Shimoga,Sugarcane,Sugarcane Aphids,Low,12,2024-06-24,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Cuddalore,Groundnut,Red Hairy Caterpillar,High,57,2024-06-24,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Anantapur,Cotton,Whitefly,Medium,32,2024-06-24,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Karimnagar,Rice,Blast Disease,Critical,174,2024-06-29,Spray Tricyclazole 75 WP @ 0.6 g/L; avoid excess nitrogen application.
+Kurnool,Sugarcane,Red Rot,Medium,28,2024-06-29,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Madurai,Sugarcane,Red Rot,High,57,2024-06-30,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Dharwad,Sugarcane,Red Rot,High,26,2024-07-03,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Chittoor,Cotton,Pink Bollworm,High,27,2024-07-03,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Thanjavur,Sugarcane,Smut,High,75,2024-07-05,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Khammam,Maize,Turcicum Leaf Blight,Low,17,2024-07-06,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Coimbatore,Maize,Turcicum Leaf Blight,Medium,81,2024-07-07,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Coimbatore,Sugarcane,Sugarcane Aphids,Low,9,2024-07-08,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Nizamabad,Maize,Turcicum Leaf Blight,High,57,2024-07-09,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Anantapur,Groundnut,Red Hairy Caterpillar,Medium,22,2024-07-09,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Dharwad,Rice,Brown Plant Hopper (BPH),High,26,2024-07-14,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Kurnool,Rice,Bacterial Leaf Blight,Medium,108,2024-07-18,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Mahbubnagar,Cotton,Boll Rot,Critical,285,2024-07-19,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Karimnagar,Rice,Bacterial Leaf Blight,Critical,248,2024-07-20,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Nalgonda,Maize,Turcicum Leaf Blight,Medium,50,2024-07-20,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Nizamabad,Groundnut,Red Hairy Caterpillar,Low,10,2024-07-26,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Mahbubnagar,Maize,Fall Armyworm,Low,7,2024-07-29,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Nizamabad,Sugarcane,Smut,Low,29,2024-07-30,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Khammam,Maize,Fall Armyworm,Low,6,2024-07-31,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Kurnool,Groundnut,Tikka Leaf Spot,High,135,2024-08-01,Spray Carbendazim @ 1 g/L + Mancozeb @ 2 g/L or Hexaconazole @ 1 mL/L.
+Guntur,Maize,Fall Armyworm,Low,6,2024-08-02,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Chittoor,Groundnut,Red Hairy Caterpillar,Medium,117,2024-08-02,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Cuddalore,Rice,Blast Disease,Medium,52,2024-08-05,Spray Tricyclazole 75 WP @ 0.6 g/L; avoid excess nitrogen application.
+Tumakuru,Groundnut,Tikka Leaf Spot,Medium,224,2024-08-10,Spray Carbendazim @ 1 g/L + Mancozeb @ 2 g/L or Hexaconazole @ 1 mL/L.
+Mahbubnagar,Rice,Brown Plant Hopper (BPH),High,104,2024-08-12,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Shimoga,Sugarcane,Sugarcane Aphids,Low,4,2024-08-15,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Khammam,Groundnut,Red Hairy Caterpillar,High,44,2024-08-18,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Mahbubnagar,Sugarcane,Red Rot,Critical,164,2024-08-25,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Nizamabad,Maize,Fall Armyworm,Low,12,2024-08-28,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Karimnagar,Maize,Turcicum Leaf Blight,Critical,110,2024-08-30,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Nizamabad,Cotton,Boll Rot,High,220,2024-08-30,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Madurai,Maize,Turcicum Leaf Blight,Medium,56,2024-08-31,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Kurnool,Cotton,Pink Bollworm,Low,34,2024-08-31,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Cuddalore,Sugarcane,Smut,Low,6,2024-09-02,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Mandya,Maize,Turcicum Leaf Blight,Low,22,2024-09-03,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Mahbubnagar,Cotton,Boll Rot,Critical,219,2024-09-05,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Nellore,Maize,Fall Armyworm,Medium,33,2024-09-07,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Nellore,Cotton,Boll Rot,High,70,2024-09-10,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Guntur,Sugarcane,Sugarcane Aphids,Low,11,2024-09-10,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Cuddalore,Groundnut,Red Hairy Caterpillar,High,103,2024-09-10,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Mahbubnagar,Cotton,Boll Rot,High,218,2024-09-10,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Nalgonda,Rice,Bacterial Leaf Blight,Medium,137,2024-09-12,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Anantapur,Sugarcane,Smut,High,62,2024-09-12,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Shimoga,Cotton,Boll Rot,Medium,209,2024-09-14,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Coimbatore,Groundnut,Tikka Leaf Spot,High,119,2024-09-15,Spray Carbendazim @ 1 g/L + Mancozeb @ 2 g/L or Hexaconazole @ 1 mL/L.
+Cuddalore,Cotton,Boll Rot,High,199,2024-09-16,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Coimbatore,Rice,Bacterial Leaf Blight,Critical,338,2024-09-17,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Anantapur,Groundnut,Bud Necrosis,Low,10,2024-09-21,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Coimbatore,Sugarcane,Smut,Critical,95,2024-09-23,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Anantapur,Maize,Fall Armyworm,Low,10,2024-09-24,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Tumakuru,Sugarcane,Smut,Low,27,2024-09-25,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Shimoga,Cotton,Pink Bollworm,Medium,64,2024-09-26,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Khammam,Sugarcane,Smut,High,61,2024-09-29,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Nellore,Maize,Turcicum Leaf Blight,Low,30,2024-09-30,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Khammam,Maize,Fall Armyworm,Medium,23,2024-10-05,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Tumakuru,Cotton,Pink Bollworm,Low,14,2024-10-07,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Coimbatore,Rice,Brown Plant Hopper (BPH),Medium,17,2024-10-09,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Mahbubnagar,Maize,Turcicum Leaf Blight,Medium,96,2024-10-14,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Karimnagar,Cotton,Pink Bollworm,Low,9,2024-10-17,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Chittoor,Rice,Bacterial Leaf Blight,High,104,2024-10-18,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Nalgonda,Maize,Fall Armyworm,Medium,33,2024-10-19,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Chittoor,Sugarcane,Smut,Medium,91,2024-10-21,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Guntur,Sugarcane,Red Rot,Low,16,2024-10-23,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Shimoga,Rice,Bacterial Leaf Blight,High,75,2024-10-26,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Shimoga,Maize,Fall Armyworm,Low,11,2024-10-30,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Chittoor,Rice,Blast Disease,Critical,204,2024-11-02,Spray Tricyclazole 75 WP @ 0.6 g/L; avoid excess nitrogen application.
+Nalgonda,Groundnut,Tikka Leaf Spot,High,144,2024-11-02,Spray Carbendazim @ 1 g/L + Mancozeb @ 2 g/L or Hexaconazole @ 1 mL/L.
+Anantapur,Wheat,Leaf Blight,Medium,26,2024-11-04,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Guntur,Wheat,Leaf Blight,High,52,2024-11-04,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Erode,Sugarcane,Red Rot,High,96,2024-11-05,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Nizamabad,Wheat,Leaf Blight,Medium,106,2024-11-06,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Mandya,Maize,Turcicum Leaf Blight,Medium,108,2024-11-07,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Mahbubnagar,Groundnut,Red Hairy Caterpillar,High,58,2024-11-07,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Kurnool,Wheat,Stem Rust,Medium,67,2024-11-09,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Nellore,Groundnut,Bud Necrosis,Low,12,2024-11-10,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Cuddalore,Maize,Turcicum Leaf Blight,Medium,81,2024-11-12,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Nizamabad,Cotton,Boll Rot,High,224,2024-11-15,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Mahbubnagar,Groundnut,Tikka Leaf Spot,High,247,2024-11-16,Spray Carbendazim @ 1 g/L + Mancozeb @ 2 g/L or Hexaconazole @ 1 mL/L.
+Nalgonda,Cotton,Whitefly,Low,3,2024-11-16,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Mahbubnagar,Maize,Fall Armyworm,Low,11,2024-11-18,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Shimoga,Cotton,Whitefly,Medium,39,2024-11-18,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Mandya,Cotton,Pink Bollworm,Medium,66,2024-11-22,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Karimnagar,Wheat,Leaf Blight,Low,22,2024-11-24,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Nizamabad,Sugarcane,Red Rot,Medium,112,2024-11-26,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Dharwad,Sugarcane,Red Rot,Low,29,2024-11-26,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Dharwad,Cotton,Pink Bollworm,Medium,84,2024-11-26,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Madurai,Maize,Fall Armyworm,Medium,164,2024-12-06,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Belagavi,Wheat,Stem Rust,Low,34,2024-12-07,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Coimbatore,Cotton,Boll Rot,Low,6,2024-12-08,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Chittoor,Cotton,Whitefly,Critical,467,2024-12-09,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Anantapur,Wheat,Stem Rust,High,42,2024-12-10,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Cuddalore,Groundnut,Bud Necrosis,High,129,2024-12-11,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Belagavi,Maize,Fall Armyworm,High,198,2024-12-15,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Shimoga,Wheat,Stem Rust,Medium,91,2024-12-15,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Kurnool,Rice,Blast Disease,Low,9,2024-12-15,Spray Tricyclazole 75 WP @ 0.6 g/L; avoid excess nitrogen application.
+Belagavi,Wheat,Stem Rust,Low,24,2024-12-18,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Chittoor,Maize,Fall Armyworm,Medium,149,2024-12-19,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Mahbubnagar,Wheat,Stem Rust,Medium,108,2024-12-19,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Cuddalore,Groundnut,Bud Necrosis,High,164,2024-12-19,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Belagavi,Wheat,Stem Rust,Medium,106,2024-12-19,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Belagavi,Wheat,Stem Rust,High,76,2024-12-20,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Dharwad,Groundnut,Red Hairy Caterpillar,Low,27,2024-12-20,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Thanjavur,Groundnut,Bud Necrosis,Critical,483,2024-12-20,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Anantapur,Sugarcane,Smut,Low,29,2024-12-21,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Nalgonda,Cotton,Pink Bollworm,Medium,32,2024-12-23,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Khammam,Sugarcane,Red Rot,Low,6,2024-12-25,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Dharwad,Wheat,Leaf Blight,High,50,2024-12-25,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Mandya,Cotton,Pink Bollworm,High,77,2024-12-29,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Khammam,Maize,Turcicum Leaf Blight,Low,6,2024-12-29,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Thanjavur,Sugarcane,Red Rot,High,113,2024-12-31,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Belagavi,Sugarcane,Sugarcane Aphids,Critical,345,2024-12-31,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Mahbubnagar,Wheat,Leaf Blight,Low,25,2025-01-03,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Shimoga,Cotton,Pink Bollworm,Low,16,2025-01-04,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Mahbubnagar,Groundnut,Bud Necrosis,Medium,101,2025-01-04,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Cuddalore,Sugarcane,Sugarcane Aphids,High,114,2025-01-06,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Karimnagar,Wheat,Stem Rust,Low,31,2025-01-06,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Karimnagar,Wheat,Leaf Blight,High,42,2025-01-06,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Belagavi,Sugarcane,Red Rot,Low,10,2025-01-08,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Anantapur,Wheat,Stem Rust,Low,16,2025-01-08,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Coimbatore,Rice,Blast Disease,Low,5,2025-01-09,Spray Tricyclazole 75 WP @ 0.6 g/L; avoid excess nitrogen application.
+Shimoga,Wheat,Leaf Blight,Low,30,2025-01-15,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Guntur,Rice,Brown Plant Hopper (BPH),Critical,129,2025-01-15,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Coimbatore,Cotton,Pink Bollworm,Medium,110,2025-01-15,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Cuddalore,Cotton,Boll Rot,Medium,30,2025-01-16,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Dharwad,Wheat,Leaf Blight,High,61,2025-01-21,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Belagavi,Sugarcane,Red Rot,Low,10,2025-01-22,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Guntur,Rice,Bacterial Leaf Blight,Low,4,2025-01-22,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Coimbatore,Sugarcane,Smut,Critical,197,2025-01-23,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Coimbatore,Wheat,Leaf Blight,Medium,85,2025-01-25,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Shimoga,Wheat,Leaf Blight,Medium,31,2025-01-25,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Tumakuru,Rice,Blast Disease,Low,3,2025-01-26,Spray Tricyclazole 75 WP @ 0.6 g/L; avoid excess nitrogen application.
+Kurnool,Wheat,Stem Rust,Low,5,2025-01-27,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Guntur,Maize,Fall Armyworm,Medium,180,2025-01-28,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Tumakuru,Wheat,Stem Rust,Low,9,2025-01-30,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Shimoga,Groundnut,Bud Necrosis,Medium,112,2025-02-03,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Guntur,Sugarcane,Smut,Medium,110,2025-02-04,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Cuddalore,Rice,Brown Plant Hopper (BPH),Low,18,2025-02-05,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Madurai,Cotton,Whitefly,High,189,2025-02-06,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Kurnool,Wheat,Stem Rust,High,44,2025-02-06,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Chittoor,Maize,Turcicum Leaf Blight,Medium,95,2025-02-09,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Anantapur,Groundnut,Red Hairy Caterpillar,High,15,2025-02-11,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Nizamabad,Maize,Turcicum Leaf Blight,Low,27,2025-02-12,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Mahbubnagar,Maize,Fall Armyworm,High,175,2025-02-14,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Coimbatore,Wheat,Leaf Blight,Medium,86,2025-02-14,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Shimoga,Groundnut,Red Hairy Caterpillar,High,103,2025-02-14,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Kurnool,Cotton,Pink Bollworm,Critical,113,2025-02-15,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Mahbubnagar,Groundnut,Red Hairy Caterpillar,Low,22,2025-02-17,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Tumakuru,Rice,Blast Disease,Low,4,2025-02-17,Spray Tricyclazole 75 WP @ 0.6 g/L; avoid excess nitrogen application.
+Kurnool,Cotton,Whitefly,Critical,255,2025-02-18,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Khammam,Sugarcane,Smut,Medium,63,2025-02-19,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Shimoga,Cotton,Boll Rot,Medium,22,2025-02-20,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Kurnool,Maize,Fall Armyworm,Critical,380,2025-02-20,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Chittoor,Sugarcane,Sugarcane Aphids,Medium,136,2025-02-22,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Madurai,Wheat,Stem Rust,Low,19,2025-02-22,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Nellore,Groundnut,Bud Necrosis,Medium,136,2025-02-22,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Nellore,Cotton,Whitefly,High,288,2025-02-22,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Thanjavur,Groundnut,Tikka Leaf Spot,Low,7,2025-02-23,Spray Carbendazim @ 1 g/L + Mancozeb @ 2 g/L or Hexaconazole @ 1 mL/L.
+Coimbatore,Sugarcane,Smut,High,50,2025-02-24,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Tumakuru,Wheat,Leaf Blight,Low,14,2025-02-27,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Mandya,Groundnut,Red Hairy Caterpillar,Low,5,2025-02-28,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Khammam,Sugarcane,Smut,High,27,2025-03-01,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Khammam,Groundnut,Red Hairy Caterpillar,Low,32,2025-03-01,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Coimbatore,Rice,Bacterial Leaf Blight,Low,7,2025-03-01,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Nalgonda,Rice,Brown Plant Hopper (BPH),Medium,55,2025-03-03,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Nizamabad,Sugarcane,Sugarcane Aphids,Medium,183,2025-03-03,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Cuddalore,Maize,Turcicum Leaf Blight,Critical,155,2025-03-04,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Nalgonda,Rice,Blast Disease,Low,8,2025-03-04,Spray Tricyclazole 75 WP @ 0.6 g/L; avoid excess nitrogen application.
+Coimbatore,Maize,Turcicum Leaf Blight,Medium,79,2025-03-04,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Coimbatore,Maize,Fall Armyworm,Medium,254,2025-03-06,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Chittoor,Maize,Turcicum Leaf Blight,Low,34,2025-03-10,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Belagavi,Sugarcane,Smut,Critical,179,2025-03-14,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Kurnool,Cotton,Whitefly,Medium,126,2025-03-14,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Thanjavur,Groundnut,Bud Necrosis,Medium,284,2025-03-16,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Chittoor,Rice,Brown Plant Hopper (BPH),High,117,2025-03-16,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Thanjavur,Groundnut,Bud Necrosis,Medium,145,2025-03-18,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Chittoor,Maize,Turcicum Leaf Blight,Medium,23,2025-03-18,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Thanjavur,Groundnut,Red Hairy Caterpillar,Medium,38,2025-03-19,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Tumakuru,Maize,Fall Armyworm,Critical,488,2025-03-19,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Cuddalore,Sugarcane,Smut,Low,16,2025-03-22,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Erode,Rice,Bacterial Leaf Blight,Medium,12,2025-03-24,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Nizamabad,Groundnut,Red Hairy Caterpillar,Medium,26,2025-03-26,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Chittoor,Groundnut,Tikka Leaf Spot,Low,5,2025-03-26,Spray Carbendazim @ 1 g/L + Mancozeb @ 2 g/L or Hexaconazole @ 1 mL/L.
+Karimnagar,Rice,Blast Disease,Medium,5,2025-03-30,Spray Tricyclazole 75 WP @ 0.6 g/L; avoid excess nitrogen application.
+Khammam,Maize,Turcicum Leaf Blight,High,38,2025-04-05,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Chittoor,Maize,Fall Armyworm,High,119,2025-04-05,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Madurai,Cotton,Boll Rot,Medium,32,2025-04-05,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Coimbatore,Groundnut,Red Hairy Caterpillar,Medium,59,2025-04-06,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Belagavi,Cotton,Pink Bollworm,Low,22,2025-04-08,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Anantapur,Cotton,Boll Rot,Low,2,2025-04-09,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Coimbatore,Rice,Bacterial Leaf Blight,Low,7,2025-04-09,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Cuddalore,Maize,Turcicum Leaf Blight,Critical,174,2025-04-10,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Khammam,Groundnut,Tikka Leaf Spot,Medium,9,2025-04-13,Spray Carbendazim @ 1 g/L + Mancozeb @ 2 g/L or Hexaconazole @ 1 mL/L.
+Mandya,Maize,Turcicum Leaf Blight,Medium,113,2025-04-14,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Cuddalore,Maize,Fall Armyworm,Critical,332,2025-04-15,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Chittoor,Cotton,Boll Rot,Low,3,2025-04-15,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Mahbubnagar,Cotton,Boll Rot,Low,8,2025-04-17,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Nizamabad,Sugarcane,Red Rot,Medium,100,2025-04-19,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Madurai,Cotton,Boll Rot,Low,6,2025-04-22,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Tumakuru,Rice,Bacterial Leaf Blight,Low,6,2025-04-25,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Nellore,Cotton,Boll Rot,Medium,29,2025-04-26,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Nizamabad,Rice,Brown Plant Hopper (BPH),Medium,46,2025-04-26,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Dharwad,Sugarcane,Sugarcane Aphids,High,225,2025-04-27,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Karimnagar,Maize,Turcicum Leaf Blight,High,48,2025-04-28,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Erode,Maize,Fall Armyworm,Medium,183,2025-04-28,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Thanjavur,Rice,Brown Plant Hopper (BPH),Medium,39,2025-04-28,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Erode,Sugarcane,Smut,Medium,72,2025-04-28,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Dharwad,Rice,Brown Plant Hopper (BPH),Critical,140,2025-04-29,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Belagavi,Sugarcane,Sugarcane Aphids,Medium,93,2025-05-07,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Thanjavur,Maize,Turcicum Leaf Blight,Medium,28,2025-05-09,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Guntur,Sugarcane,Sugarcane Aphids,High,244,2025-05-10,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Anantapur,Cotton,Whitefly,High,119,2025-05-12,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Tumakuru,Sugarcane,Sugarcane Aphids,High,198,2025-05-12,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Khammam,Maize,Turcicum Leaf Blight,High,116,2025-05-13,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Mahbubnagar,Sugarcane,Smut,Low,31,2025-05-14,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Dharwad,Maize,Fall Armyworm,High,281,2025-05-15,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Belagavi,Cotton,Whitefly,Medium,217,2025-05-16,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Nizamabad,Rice,Bacterial Leaf Blight,Medium,13,2025-05-16,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Madurai,Cotton,Boll Rot,Low,1,2025-05-16,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Cuddalore,Rice,Blast Disease,Low,8,2025-05-16,Spray Tricyclazole 75 WP @ 0.6 g/L; avoid excess nitrogen application.
+Chittoor,Cotton,Boll Rot,Low,10,2025-05-17,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Khammam,Rice,Brown Plant Hopper (BPH),Low,11,2025-05-18,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Nizamabad,Sugarcane,Smut,Medium,66,2025-05-18,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Erode,Sugarcane,Smut,Medium,77,2025-05-29,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Anantapur,Rice,Brown Plant Hopper (BPH),Medium,42,2025-05-30,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Anantapur,Maize,Turcicum Leaf Blight,High,40,2025-05-31,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Belagavi,Rice,Bacterial Leaf Blight,Low,2,2025-05-31,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Kurnool,Maize,Fall Armyworm,Medium,44,2025-06-03,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Nellore,Cotton,Boll Rot,Medium,87,2025-06-06,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Anantapur,Sugarcane,Smut,Low,15,2025-06-06,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Shimoga,Groundnut,Red Hairy Caterpillar,Medium,37,2025-06-09,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Thanjavur,Sugarcane,Smut,Medium,99,2025-06-11,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Mandya,Rice,Blast Disease,Medium,108,2025-06-13,Spray Tricyclazole 75 WP @ 0.6 g/L; avoid excess nitrogen application.
+Guntur,Groundnut,Red Hairy Caterpillar,Medium,103,2025-06-15,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Nalgonda,Groundnut,Tikka Leaf Spot,Medium,138,2025-06-16,Spray Carbendazim @ 1 g/L + Mancozeb @ 2 g/L or Hexaconazole @ 1 mL/L.
+Dharwad,Sugarcane,Smut,Medium,82,2025-06-19,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Nizamabad,Cotton,Pink Bollworm,Medium,104,2025-06-21,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Chittoor,Sugarcane,Smut,Medium,25,2025-06-23,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Mandya,Sugarcane,Red Rot,High,106,2025-06-23,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Coimbatore,Rice,Blast Disease,Medium,134,2025-06-25,Spray Tricyclazole 75 WP @ 0.6 g/L; avoid excess nitrogen application.
+Chittoor,Groundnut,Red Hairy Caterpillar,Medium,21,2025-06-27,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Coimbatore,Cotton,Pink Bollworm,High,50,2025-06-29,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Nizamabad,Sugarcane,Smut,Medium,30,2025-06-30,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Shimoga,Maize,Turcicum Leaf Blight,Medium,119,2025-07-01,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Guntur,Maize,Fall Armyworm,Low,5,2025-07-05,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Tumakuru,Maize,Turcicum Leaf Blight,Medium,32,2025-07-11,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Madurai,Cotton,Pink Bollworm,Medium,94,2025-07-12,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Shimoga,Sugarcane,Red Rot,Medium,89,2025-07-13,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Shimoga,Groundnut,Tikka Leaf Spot,High,151,2025-07-17,Spray Carbendazim @ 1 g/L + Mancozeb @ 2 g/L or Hexaconazole @ 1 mL/L.
+Belagavi,Maize,Fall Armyworm,Low,9,2025-07-17,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Khammam,Sugarcane,Sugarcane Aphids,Low,4,2025-07-18,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Guntur,Maize,Fall Armyworm,Low,3,2025-07-21,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Cuddalore,Sugarcane,Red Rot,Medium,73,2025-07-22,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Khammam,Groundnut,Tikka Leaf Spot,High,65,2025-07-24,Spray Carbendazim @ 1 g/L + Mancozeb @ 2 g/L or Hexaconazole @ 1 mL/L.
+Nellore,Groundnut,Bud Necrosis,Medium,37,2025-07-29,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Shimoga,Maize,Turcicum Leaf Blight,Low,23,2025-07-29,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Mahbubnagar,Cotton,Pink Bollworm,High,17,2025-07-30,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Erode,Sugarcane,Smut,Low,14,2025-07-31,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Coimbatore,Cotton,Pink Bollworm,Low,27,2025-07-31,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Madurai,Cotton,Pink Bollworm,Low,24,2025-07-31,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Tumakuru,Sugarcane,Sugarcane Aphids,Low,10,2025-08-02,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Thanjavur,Groundnut,Red Hairy Caterpillar,Critical,90,2025-08-04,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Thanjavur,Sugarcane,Sugarcane Aphids,Low,8,2025-08-04,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Nalgonda,Maize,Fall Armyworm,Low,7,2025-08-05,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Mahbubnagar,Rice,Bacterial Leaf Blight,Critical,284,2025-08-06,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Shimoga,Groundnut,Bud Necrosis,Medium,27,2025-08-06,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Nellore,Maize,Fall Armyworm,Low,7,2025-08-08,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Coimbatore,Sugarcane,Sugarcane Aphids,Low,5,2025-08-10,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Nizamabad,Groundnut,Bud Necrosis,Low,10,2025-08-12,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Dharwad,Maize,Fall Armyworm,Low,4,2025-08-21,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Khammam,Cotton,Whitefly,Low,11,2025-08-21,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Nizamabad,Maize,Fall Armyworm,Medium,37,2025-08-26,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Cuddalore,Maize,Turcicum Leaf Blight,Medium,105,2025-08-27,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Nellore,Sugarcane,Smut,Medium,80,2025-09-11,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Dharwad,Sugarcane,Smut,Low,19,2025-09-12,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Coimbatore,Cotton,Boll Rot,Critical,158,2025-09-12,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Anantapur,Rice,Brown Plant Hopper (BPH),Low,7,2025-09-13,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Mahbubnagar,Rice,Bacterial Leaf Blight,High,231,2025-09-14,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Nalgonda,Rice,Brown Plant Hopper (BPH),Medium,46,2025-09-14,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Nalgonda,Rice,Brown Plant Hopper (BPH),Medium,101,2025-09-17,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Tumakuru,Maize,Turcicum Leaf Blight,Critical,221,2025-09-17,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Nellore,Maize,Fall Armyworm,Low,6,2025-09-20,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Nalgonda,Rice,Bacterial Leaf Blight,Medium,134,2025-09-23,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Karimnagar,Rice,Blast Disease,High,122,2025-09-24,Spray Tricyclazole 75 WP @ 0.6 g/L; avoid excess nitrogen application.
+Mandya,Sugarcane,Smut,Critical,182,2025-09-25,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Kurnool,Sugarcane,Sugarcane Aphids,Low,13,2025-09-26,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Mandya,Sugarcane,Smut,Low,20,2025-09-26,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Dharwad,Groundnut,Tikka Leaf Spot,Medium,113,2025-10-05,Spray Carbendazim @ 1 g/L + Mancozeb @ 2 g/L or Hexaconazole @ 1 mL/L.
+Madurai,Maize,Fall Armyworm,Low,5,2025-10-05,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Thanjavur,Groundnut,Red Hairy Caterpillar,Critical,72,2025-10-12,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Belagavi,Maize,Fall Armyworm,Low,7,2025-10-13,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Guntur,Sugarcane,Red Rot,Medium,87,2025-10-16,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Cuddalore,Sugarcane,Sugarcane Aphids,Low,7,2025-10-17,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Mahbubnagar,Sugarcane,Red Rot,Medium,30,2025-10-19,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Anantapur,Groundnut,Bud Necrosis,Low,9,2025-10-21,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Shimoga,Groundnut,Red Hairy Caterpillar,Low,11,2025-10-22,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Erode,Cotton,Pink Bollworm,Medium,30,2025-10-23,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Karimnagar,Maize,Fall Armyworm,Low,9,2025-10-26,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Tumakuru,Rice,Bacterial Leaf Blight,Medium,149,2025-10-27,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Mandya,Cotton,Whitefly,Low,12,2025-10-31,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Guntur,Maize,Turcicum Leaf Blight,Critical,123,2025-11-01,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Guntur,Wheat,Stem Rust,Medium,58,2025-11-02,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Mahbubnagar,Cotton,Pink Bollworm,Low,31,2025-11-02,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Nizamabad,Wheat,Leaf Blight,Medium,33,2025-11-04,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Guntur,Maize,Turcicum Leaf Blight,Low,6,2025-11-05,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Tumakuru,Wheat,Leaf Blight,Medium,78,2025-11-06,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Karimnagar,Rice,Brown Plant Hopper (BPH),Medium,29,2025-11-08,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Cuddalore,Maize,Fall Armyworm,Low,3,2025-11-11,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Tumakuru,Wheat,Stem Rust,Low,24,2025-11-12,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Karimnagar,Groundnut,Red Hairy Caterpillar,Critical,107,2025-11-14,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Belagavi,Sugarcane,Sugarcane Aphids,Medium,39,2025-11-15,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Madurai,Wheat,Leaf Blight,Medium,113,2025-11-16,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Coimbatore,Sugarcane,Smut,Medium,81,2025-11-16,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Nizamabad,Sugarcane,Sugarcane Aphids,Medium,15,2025-11-16,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Thanjavur,Wheat,Stem Rust,Medium,93,2025-11-17,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Cuddalore,Cotton,Whitefly,Medium,30,2025-11-18,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Nizamabad,Maize,Fall Armyworm,Medium,24,2025-11-18,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Guntur,Cotton,Pink Bollworm,Medium,115,2025-11-19,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Cuddalore,Groundnut,Bud Necrosis,Medium,23,2025-11-19,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Thanjavur,Sugarcane,Red Rot,High,81,2025-11-21,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Belagavi,Wheat,Leaf Blight,Critical,147,2025-11-23,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Chittoor,Maize,Turcicum Leaf Blight,Medium,81,2025-11-24,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Nalgonda,Maize,Fall Armyworm,Low,9,2025-11-26,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Shimoga,Maize,Turcicum Leaf Blight,Low,21,2025-11-26,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Mandya,Wheat,Stem Rust,Medium,116,2025-11-26,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Chittoor,Sugarcane,Smut,Medium,89,2025-11-26,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Nalgonda,Cotton,Whitefly,Low,11,2025-11-27,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Erode,Sugarcane,Sugarcane Aphids,Low,6,2025-11-27,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Nellore,Cotton,Pink Bollworm,Medium,56,2025-11-30,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Mahbubnagar,Cotton,Boll Rot,Low,4,2025-12-02,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Madurai,Groundnut,Bud Necrosis,Medium,243,2025-12-03,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Guntur,Wheat,Leaf Blight,Critical,161,2025-12-04,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Shimoga,Wheat,Leaf Blight,Critical,203,2025-12-04,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Khammam,Groundnut,Bud Necrosis,Medium,258,2025-12-04,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Belagavi,Maize,Turcicum Leaf Blight,High,32,2025-12-05,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Shimoga,Rice,Blast Disease,Low,8,2025-12-06,Spray Tricyclazole 75 WP @ 0.6 g/L; avoid excess nitrogen application.
+Dharwad,Wheat,Stem Rust,Medium,20,2025-12-06,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Nizamabad,Wheat,Stem Rust,High,87,2025-12-06,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Nellore,Groundnut,Bud Necrosis,High,289,2025-12-08,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Chittoor,Wheat,Stem Rust,Low,19,2025-12-10,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Thanjavur,Wheat,Stem Rust,Low,5,2025-12-10,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Chittoor,Wheat,Leaf Blight,Low,26,2025-12-10,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Belagavi,Cotton,Whitefly,High,147,2025-12-10,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Mandya,Cotton,Whitefly,Medium,72,2025-12-12,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Nellore,Cotton,Pink Bollworm,Medium,108,2025-12-16,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Dharwad,Sugarcane,Sugarcane Aphids,Critical,456,2025-12-16,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Cuddalore,Maize,Fall Armyworm,High,136,2025-12-19,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Kurnool,Groundnut,Tikka Leaf Spot,Low,1,2025-12-19,Spray Carbendazim @ 1 g/L + Mancozeb @ 2 g/L or Hexaconazole @ 1 mL/L.
+Anantapur,Sugarcane,Smut,High,48,2025-12-20,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Tumakuru,Cotton,Whitefly,Medium,87,2025-12-23,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Belagavi,Wheat,Stem Rust,Low,8,2025-12-24,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Mahbubnagar,Sugarcane,Sugarcane Aphids,High,258,2025-12-27,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Nalgonda,Rice,Brown Plant Hopper (BPH),Critical,153,2025-12-29,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Mahbubnagar,Sugarcane,Smut,High,69,2025-12-31,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Madurai,Sugarcane,Red Rot,Medium,27,2026-01-01,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Kurnool,Sugarcane,Red Rot,Low,18,2026-01-01,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Coimbatore,Groundnut,Red Hairy Caterpillar,Low,9,2026-01-01,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Nalgonda,Groundnut,Red Hairy Caterpillar,Low,33,2026-01-04,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Anantapur,Groundnut,Tikka Leaf Spot,Low,3,2026-01-04,Spray Carbendazim @ 1 g/L + Mancozeb @ 2 g/L or Hexaconazole @ 1 mL/L.
+Thanjavur,Maize,Fall Armyworm,High,114,2026-01-06,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Mahbubnagar,Sugarcane,Smut,High,41,2026-01-08,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Karimnagar,Sugarcane,Red Rot,Critical,201,2026-01-12,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Coimbatore,Rice,Brown Plant Hopper (BPH),Medium,58,2026-01-13,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Nizamabad,Wheat,Leaf Blight,Medium,84,2026-01-15,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Mandya,Sugarcane,Smut,Medium,85,2026-01-15,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Coimbatore,Sugarcane,Sugarcane Aphids,High,53,2026-01-17,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Guntur,Maize,Fall Armyworm,Medium,84,2026-01-17,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Mahbubnagar,Rice,Brown Plant Hopper (BPH),High,52,2026-01-24,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Erode,Groundnut,Bud Necrosis,Medium,287,2026-01-27,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Mandya,Sugarcane,Red Rot,Medium,87,2026-01-30,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Shimoga,Sugarcane,Sugarcane Aphids,High,115,2026-02-03,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Chittoor,Groundnut,Red Hairy Caterpillar,High,97,2026-02-06,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Mandya,Sugarcane,Red Rot,Medium,94,2026-02-10,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Cuddalore,Maize,Fall Armyworm,High,268,2026-02-10,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Tumakuru,Sugarcane,Smut,Low,35,2026-02-10,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Nellore,Rice,Blast Disease,Medium,21,2026-02-13,Spray Tricyclazole 75 WP @ 0.6 g/L; avoid excess nitrogen application.
+Shimoga,Rice,Bacterial Leaf Blight,Low,8,2026-02-15,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Shimoga,Groundnut,Tikka Leaf Spot,Medium,30,2026-02-15,Spray Carbendazim @ 1 g/L + Mancozeb @ 2 g/L or Hexaconazole @ 1 mL/L.
+Belagavi,Wheat,Leaf Blight,High,73,2026-02-17,Spray Mancozeb @ 2.5 g/L at early appearance of symptoms.
+Cuddalore,Maize,Turcicum Leaf Blight,Critical,182,2026-02-19,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Thanjavur,Sugarcane,Sugarcane Aphids,High,249,2026-02-22,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Shimoga,Maize,Fall Armyworm,High,83,2026-02-23,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Cuddalore,Wheat,Stem Rust,Low,24,2026-02-24,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Karimnagar,Wheat,Stem Rust,Low,21,2026-02-25,Spray Propiconazole 25 EC @ 1 mL/L; cultivate rust-resistant varieties.
+Erode,Cotton,Whitefly,Medium,134,2026-02-25,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Thanjavur,Rice,Bacterial Leaf Blight,Medium,32,2026-02-26,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Tumakuru,Groundnut,Red Hairy Caterpillar,Medium,46,2026-02-28,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Karimnagar,Cotton,Pink Bollworm,Medium,74,2026-03-01,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Anantapur,Maize,Fall Armyworm,Critical,267,2026-03-04,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Kurnool,Cotton,Whitefly,High,242,2026-03-04,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Nizamabad,Maize,Turcicum Leaf Blight,Low,28,2026-03-04,Spray Mancozeb 75 WP @ 2.5 g/L or Azoxystrobin @ 1 mL/L.
+Thanjavur,Sugarcane,Red Rot,Low,10,2026-03-04,Uproot and burn infected clumps; drench soil with Carbendazim 50 WP @ 1 g/L; use disease-free setts.
+Coimbatore,Groundnut,Bud Necrosis,Critical,149,2026-03-05,Intercrop with Pearl Millet; spray Imidacloprid 17.8% SL @ 0.3 mL/L to control Thrips vector.
+Kurnool,Maize,Fall Armyworm,High,230,2026-03-05,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Dharwad,Rice,Blast Disease,Low,3,2026-03-10,Spray Tricyclazole 75 WP @ 0.6 g/L; avoid excess nitrogen application.
+Khammam,Rice,Brown Plant Hopper (BPH),Medium,16,2026-03-11,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Coimbatore,Maize,Fall Armyworm,Medium,52,2026-03-14,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Karimnagar,Cotton,Boll Rot,Low,6,2026-03-17,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Khammam,Rice,Brown Plant Hopper (BPH),Low,24,2026-03-17,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Mahbubnagar,Cotton,Pink Bollworm,Critical,162,2026-03-20,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Madurai,Groundnut,Red Hairy Caterpillar,Medium,85,2026-03-22,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Belagavi,Rice,Bacterial Leaf Blight,Low,2,2026-03-23,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Karimnagar,Sugarcane,Smut,Low,21,2026-03-24,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Guntur,Maize,Fall Armyworm,Medium,172,2026-03-26,Erect bird perches @ 10/acre; spray Chlorantraniliprole 18.5% SC @ 0.4 mL/L at early larval stages.
+Chittoor,Groundnut,Red Hairy Caterpillar,Medium,76,2026-03-31,Deep summer ploughing; set up light traps; spray Quinalphos 25 EC @ 2 mL/L.
+Cuddalore,Rice,Bacterial Leaf Blight,Low,9,2026-04-01,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Nizamabad,Rice,Brown Plant Hopper (BPH),Medium,75,2026-04-04,Apply Buprofezin 25% SC @ 1.6 mL/L; open alleys in the field for aeration.
+Cuddalore,Sugarcane,Smut,High,67,2026-04-05,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Madurai,Sugarcane,Sugarcane Aphids,High,187,2026-04-09,Release Chrysoperla predators; spray Dimethoate 30 EC @ 2 mL/L if severe.
+Mandya,Cotton,Whitefly,High,91,2026-04-12,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Coimbatore,Cotton,Pink Bollworm,Medium,78,2026-04-13,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Karimnagar,Sugarcane,Smut,High,27,2026-04-16,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Karimnagar,Cotton,Whitefly,High,222,2026-04-16,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Guntur,Groundnut,Tikka Leaf Spot,Low,2,2026-04-17,Spray Carbendazim @ 1 g/L + Mancozeb @ 2 g/L or Hexaconazole @ 1 mL/L.
+Guntur,Cotton,Whitefly,Critical,399,2026-04-17,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Thanjavur,Cotton,Boll Rot,Low,2,2026-04-17,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Tumakuru,Sugarcane,Smut,Medium,20,2026-04-18,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.
+Guntur,Cotton,Boll Rot,Low,7,2026-04-19,Spray Copper Oxychloride @ 2.5 g/L + Streptocycline @ 0.1 g/L; manage crop density.
+Belagavi,Cotton,Pink Bollworm,Critical,206,2026-04-19,Deploy Pheromone traps @ 5/acre; spray Profenofos 50 EC @ 2 mL/L if ETL crossed.
+Coimbatore,Rice,Bacterial Leaf Blight,Low,2,2026-04-19,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Chittoor,Rice,Bacterial Leaf Blight,Low,1,2026-04-21,Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2 g/L; drain excess water.
+Nellore,Cotton,Whitefly,High,133,2026-04-24,Spray Neem oil 1500 ppm @ 5 mL/L or Triazophos 40 EC @ 2 mL/L; avoid synthetic pyrethroids.
+Mahbubnagar,Sugarcane,Smut,Medium,49,2026-04-25,Remove smut whips carefully in a cloth bag and burn; spray Propiconazole @ 1 mL/L.

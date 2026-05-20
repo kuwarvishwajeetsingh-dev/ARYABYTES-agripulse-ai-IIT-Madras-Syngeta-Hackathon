@@ -1,0 +1,561 @@
+district,state,date,rainfall_mm,temperature_c,humidity_percent,wind_speed_kmph,weather_condition
+Thanjavur,Tamil Nadu,2024-01-01,47.4,26.3,63.3,18.4,Rainy
+Thanjavur,Tamil Nadu,2024-01-08,49.2,33.0,66.8,34.9,Cloudy
+Thanjavur,Tamil Nadu,2024-01-15,21.5,31.0,78.1,17.2,Rainy
+Thanjavur,Tamil Nadu,2024-01-22,52.7,29.3,76.3,34.4,Cloudy
+Thanjavur,Tamil Nadu,2024-01-29,45.7,28.1,61.0,27.7,Rainy
+Thanjavur,Tamil Nadu,2024-02-05,79.4,27.3,60.4,23.1,Cloudy
+Thanjavur,Tamil Nadu,2024-02-12,38.8,27.8,60.5,34.9,Rainy
+Thanjavur,Tamil Nadu,2024-02-19,40.6,32.1,79.6,18.4,Sunny
+Thanjavur,Tamil Nadu,2024-02-26,72.5,28.1,67.8,24.7,Cloudy
+Thanjavur,Tamil Nadu,2024-03-04,6.7,32.9,60.2,7.1,Sunny
+Thanjavur,Tamil Nadu,2024-03-11,1.0,33.3,58.2,22.1,Sunny
+Thanjavur,Tamil Nadu,2024-03-18,5.8,35.2,47.7,20.8,Sunny
+Thanjavur,Tamil Nadu,2024-03-25,22.6,40.4,42.1,5.3,Sunny
+Thanjavur,Tamil Nadu,2024-04-01,23.1,34.8,64.9,24.0,Rainy
+Thanjavur,Tamil Nadu,2024-04-08,28.7,32.3,41.3,29.2,Cloudy
+Thanjavur,Tamil Nadu,2024-04-15,10.4,39.7,63.4,31.9,Cloudy
+Thanjavur,Tamil Nadu,2024-04-22,16.9,36.5,45.0,32.8,Sunny
+Thanjavur,Tamil Nadu,2024-04-29,19.6,34.9,52.7,34.7,Sunny
+Thanjavur,Tamil Nadu,2024-05-06,29.6,35.0,48.3,21.6,Sunny
+Thanjavur,Tamil Nadu,2024-05-13,0.9,40.4,59.2,20.1,Sunny
+Thanjavur,Tamil Nadu,2024-05-20,3.7,38.1,43.4,21.0,Sunny
+Thanjavur,Tamil Nadu,2024-05-27,27.3,34.5,54.4,9.9,Sunny
+Thanjavur,Tamil Nadu,2024-06-03,77.4,27.6,63.4,20.4,Rainy
+Thanjavur,Tamil Nadu,2024-06-10,36.4,30.4,77.3,22.1,Rainy
+Thanjavur,Tamil Nadu,2024-06-17,19.1,31.0,56.6,26.3,Cloudy
+Thanjavur,Tamil Nadu,2024-06-24,79.8,25.9,61.1,20.5,Cloudy
+Thanjavur,Tamil Nadu,2024-07-01,51.2,27.5,78.0,12.6,Cloudy
+Thanjavur,Tamil Nadu,2024-07-08,10.9,30.5,63.5,10.9,Cloudy
+Thanjavur,Tamil Nadu,2024-07-15,76.3,25.5,82.5,17.7,Rainy
+Thanjavur,Tamil Nadu,2024-07-22,31.1,27.0,83.2,8.5,Cloudy
+Thanjavur,Tamil Nadu,2024-07-29,63.1,31.2,58.6,28.9,Sunny
+Thanjavur,Tamil Nadu,2024-08-05,22.0,27.4,69.9,17.3,Cloudy
+Thanjavur,Tamil Nadu,2024-08-12,57.4,30.7,72.6,7.2,Sunny
+Thanjavur,Tamil Nadu,2024-08-19,47.4,33.6,72.9,6.6,Cloudy
+Thanjavur,Tamil Nadu,2024-08-26,44.1,30.9,71.6,16.8,Cloudy
+Thanjavur,Tamil Nadu,2024-09-02,42.8,32.7,66.0,17.4,Sunny
+Thanjavur,Tamil Nadu,2024-09-09,50.1,34.5,76.4,10.8,Rainy
+Thanjavur,Tamil Nadu,2024-09-16,54.0,26.3,60.3,30.5,Cloudy
+Thanjavur,Tamil Nadu,2024-09-23,79.3,30.7,69.1,23.2,Rainy
+Thanjavur,Tamil Nadu,2024-09-30,52.1,31.7,68.0,25.8,Sunny
+Coimbatore,Tamil Nadu,2024-01-01,56.7,32.0,77.1,15.7,Cloudy
+Coimbatore,Tamil Nadu,2024-01-08,61.5,31.9,83.1,33.2,Sunny
+Coimbatore,Tamil Nadu,2024-01-15,32.2,33.4,70.9,33.0,Cloudy
+Coimbatore,Tamil Nadu,2024-01-22,29.4,25.0,64.5,28.5,Rainy
+Coimbatore,Tamil Nadu,2024-01-29,73.2,29.1,56.3,19.8,Cloudy
+Coimbatore,Tamil Nadu,2024-02-05,34.4,34.6,75.2,26.3,Cloudy
+Coimbatore,Tamil Nadu,2024-02-12,55.8,27.0,69.7,26.4,Rainy
+Coimbatore,Tamil Nadu,2024-02-19,45.4,31.8,55.2,15.9,Sunny
+Coimbatore,Tamil Nadu,2024-02-26,35.8,27.9,60.9,10.3,Cloudy
+Coimbatore,Tamil Nadu,2024-03-04,9.3,35.9,45.6,15.0,Cloudy
+Coimbatore,Tamil Nadu,2024-03-11,24.3,33.5,41.8,7.2,Sunny
+Coimbatore,Tamil Nadu,2024-03-18,28.9,32.5,67.4,12.1,Sunny
+Coimbatore,Tamil Nadu,2024-03-25,17.1,35.3,64.1,19.1,Cloudy
+Coimbatore,Tamil Nadu,2024-04-01,24.1,36.8,69.0,5.4,Sunny
+Coimbatore,Tamil Nadu,2024-04-08,16.0,37.0,50.0,27.6,Cloudy
+Coimbatore,Tamil Nadu,2024-04-15,16.3,34.0,49.0,8.5,Sunny
+Coimbatore,Tamil Nadu,2024-04-22,2.8,34.8,59.8,25.2,Sunny
+Coimbatore,Tamil Nadu,2024-04-29,15.4,39.7,52.6,23.7,Cloudy
+Coimbatore,Tamil Nadu,2024-05-06,8.6,39.7,69.7,16.4,Sunny
+Coimbatore,Tamil Nadu,2024-05-13,26.3,39.1,57.8,12.5,Sunny
+Coimbatore,Tamil Nadu,2024-05-20,27.6,39.2,49.8,28.5,Cloudy
+Coimbatore,Tamil Nadu,2024-05-27,18.7,35.1,47.9,17.3,Cloudy
+Coimbatore,Tamil Nadu,2024-06-03,46.8,28.9,68.1,6.4,Rainy
+Coimbatore,Tamil Nadu,2024-06-10,48.3,33.2,77.9,34.8,Cloudy
+Coimbatore,Tamil Nadu,2024-06-17,14.0,34.7,75.6,22.0,Cloudy
+Coimbatore,Tamil Nadu,2024-06-24,71.2,25.6,76.8,32.3,Rainy
+Coimbatore,Tamil Nadu,2024-07-01,25.7,32.5,56.5,30.9,Cloudy
+Coimbatore,Tamil Nadu,2024-07-08,21.4,25.7,65.8,6.9,Sunny
+Coimbatore,Tamil Nadu,2024-07-15,45.7,26.2,64.9,20.5,Cloudy
+Coimbatore,Tamil Nadu,2024-07-22,55.3,26.1,80.3,10.0,Sunny
+Coimbatore,Tamil Nadu,2024-07-29,63.9,28.4,81.4,22.2,Sunny
+Coimbatore,Tamil Nadu,2024-08-05,33.8,26.1,58.9,15.1,Cloudy
+Coimbatore,Tamil Nadu,2024-08-12,70.8,32.0,61.1,22.7,Cloudy
+Coimbatore,Tamil Nadu,2024-08-19,19.3,28.8,82.5,19.4,Rainy
+Coimbatore,Tamil Nadu,2024-08-26,54.4,27.0,57.9,22.5,Cloudy
+Coimbatore,Tamil Nadu,2024-09-02,62.1,29.1,78.1,6.5,Cloudy
+Coimbatore,Tamil Nadu,2024-09-09,19.9,34.7,68.5,10.5,Rainy
+Coimbatore,Tamil Nadu,2024-09-16,49.4,35.0,72.5,31.2,Cloudy
+Coimbatore,Tamil Nadu,2024-09-23,33.6,30.2,59.5,19.7,Cloudy
+Coimbatore,Tamil Nadu,2024-09-30,56.6,34.3,67.3,30.9,Rainy
+Madurai,Tamil Nadu,2024-01-01,28.2,34.6,78.2,30.9,Rainy
+Madurai,Tamil Nadu,2024-01-08,37.2,28.8,77.0,15.2,Sunny
+Madurai,Tamil Nadu,2024-01-15,71.1,29.4,67.0,19.8,Rainy
+Madurai,Tamil Nadu,2024-01-22,64.1,31.3,59.9,22.9,Cloudy
+Madurai,Tamil Nadu,2024-01-29,10.4,26.5,59.8,18.8,Cloudy
+Madurai,Tamil Nadu,2024-02-05,79.0,31.8,84.3,16.4,Cloudy
+Madurai,Tamil Nadu,2024-02-12,11.3,31.3,60.3,23.0,Cloudy
+Madurai,Tamil Nadu,2024-02-19,43.6,26.7,77.0,14.8,Rainy
+Madurai,Tamil Nadu,2024-02-26,70.6,26.8,57.1,27.5,Sunny
+Madurai,Tamil Nadu,2024-03-04,24.1,32.3,42.1,28.7,Cloudy
+Madurai,Tamil Nadu,2024-03-11,8.8,38.6,67.0,22.3,Sunny
+Madurai,Tamil Nadu,2024-03-18,17.1,39.4,41.2,8.8,Sunny
+Madurai,Tamil Nadu,2024-03-25,11.7,37.3,54.9,5.0,Sunny
+Madurai,Tamil Nadu,2024-04-01,24.4,34.3,69.0,9.3,Sunny
+Madurai,Tamil Nadu,2024-04-08,19.4,37.2,53.5,20.0,Sunny
+Madurai,Tamil Nadu,2024-04-15,8.1,39.5,43.6,16.2,Sunny
+Madurai,Tamil Nadu,2024-04-22,0.5,39.1,56.0,21.2,Rainy
+Madurai,Tamil Nadu,2024-04-29,17.4,37.2,43.6,27.6,Sunny
+Madurai,Tamil Nadu,2024-05-06,21.6,35.9,64.0,16.7,Cloudy
+Madurai,Tamil Nadu,2024-05-13,15.2,33.8,51.7,16.8,Rainy
+Madurai,Tamil Nadu,2024-05-20,8.8,34.3,69.9,34.8,Sunny
+Madurai,Tamil Nadu,2024-05-27,27.8,35.0,43.1,31.3,Sunny
+Madurai,Tamil Nadu,2024-06-03,48.3,25.9,60.4,14.7,Sunny
+Madurai,Tamil Nadu,2024-06-10,68.6,34.0,62.4,5.5,Cloudy
+Madurai,Tamil Nadu,2024-06-17,48.5,29.6,71.8,9.8,Sunny
+Madurai,Tamil Nadu,2024-06-24,73.3,25.3,75.0,17.1,Cloudy
+Madurai,Tamil Nadu,2024-07-01,35.5,29.5,56.9,6.2,Rainy
+Madurai,Tamil Nadu,2024-07-08,40.4,30.4,73.9,21.2,Cloudy
+Madurai,Tamil Nadu,2024-07-15,33.7,28.2,71.3,5.8,Rainy
+Madurai,Tamil Nadu,2024-07-22,22.9,29.5,67.9,16.1,Sunny
+Madurai,Tamil Nadu,2024-07-29,10.3,31.9,55.1,20.6,Rainy
+Madurai,Tamil Nadu,2024-08-05,75.9,25.3,68.0,14.9,Cloudy
+Madurai,Tamil Nadu,2024-08-12,30.0,32.0,66.3,11.9,Sunny
+Madurai,Tamil Nadu,2024-08-19,14.2,27.6,62.3,32.5,Rainy
+Madurai,Tamil Nadu,2024-08-26,64.4,30.1,57.7,25.8,Sunny
+Madurai,Tamil Nadu,2024-09-02,66.9,25.7,75.2,18.0,Cloudy
+Madurai,Tamil Nadu,2024-09-09,71.8,32.1,64.9,31.3,Rainy
+Madurai,Tamil Nadu,2024-09-16,18.0,27.4,81.9,27.7,Cloudy
+Madurai,Tamil Nadu,2024-09-23,28.7,25.0,59.9,17.0,Cloudy
+Madurai,Tamil Nadu,2024-09-30,42.9,28.8,79.4,24.1,Rainy
+Erode,Tamil Nadu,2024-01-01,60.1,25.0,58.5,34.8,Sunny
+Erode,Tamil Nadu,2024-01-08,21.6,28.2,69.4,34.6,Sunny
+Erode,Tamil Nadu,2024-01-15,36.3,29.9,64.5,10.6,Cloudy
+Erode,Tamil Nadu,2024-01-22,41.4,26.8,69.7,23.7,Rainy
+Erode,Tamil Nadu,2024-01-29,73.0,34.3,65.9,17.1,Sunny
+Erode,Tamil Nadu,2024-02-05,28.2,31.7,84.0,16.2,Cloudy
+Erode,Tamil Nadu,2024-02-12,71.6,27.4,82.7,14.0,Rainy
+Erode,Tamil Nadu,2024-02-19,38.6,27.8,79.4,27.0,Cloudy
+Erode,Tamil Nadu,2024-02-26,17.2,25.0,67.2,7.2,Rainy
+Erode,Tamil Nadu,2024-03-04,14.7,37.3,41.1,9.0,Sunny
+Erode,Tamil Nadu,2024-03-11,22.1,35.8,42.4,29.5,Cloudy
+Erode,Tamil Nadu,2024-03-18,7.4,38.0,42.7,23.5,Sunny
+Erode,Tamil Nadu,2024-03-25,1.1,33.0,53.6,18.5,Sunny
+Erode,Tamil Nadu,2024-04-01,26.0,40.2,62.8,18.3,Sunny
+Erode,Tamil Nadu,2024-04-08,4.9,32.3,40.3,18.4,Rainy
+Erode,Tamil Nadu,2024-04-15,21.7,36.0,58.3,6.9,Sunny
+Erode,Tamil Nadu,2024-04-22,6.0,35.2,61.1,14.4,Cloudy
+Erode,Tamil Nadu,2024-04-29,8.1,34.2,65.2,10.1,Sunny
+Erode,Tamil Nadu,2024-05-06,0.2,36.4,52.0,9.0,Sunny
+Erode,Tamil Nadu,2024-05-13,0.3,37.4,64.4,19.6,Sunny
+Erode,Tamil Nadu,2024-05-20,7.1,38.2,66.5,7.7,Sunny
+Erode,Tamil Nadu,2024-05-27,25.5,36.5,62.3,14.7,Sunny
+Erode,Tamil Nadu,2024-06-03,76.5,32.6,80.2,14.0,Sunny
+Erode,Tamil Nadu,2024-06-10,31.6,29.2,65.8,19.3,Sunny
+Erode,Tamil Nadu,2024-06-17,37.0,25.1,65.6,17.2,Cloudy
+Erode,Tamil Nadu,2024-06-24,56.3,29.2,71.3,34.9,Rainy
+Erode,Tamil Nadu,2024-07-01,39.2,32.6,70.6,19.3,Rainy
+Erode,Tamil Nadu,2024-07-08,64.5,34.8,66.3,32.1,Sunny
+Erode,Tamil Nadu,2024-07-15,46.7,30.6,70.8,8.0,Sunny
+Erode,Tamil Nadu,2024-07-22,62.8,32.5,66.5,18.9,Sunny
+Erode,Tamil Nadu,2024-07-29,53.2,27.2,75.4,29.2,Sunny
+Erode,Tamil Nadu,2024-08-05,61.5,30.5,84.3,9.4,Rainy
+Erode,Tamil Nadu,2024-08-12,26.2,34.9,58.8,31.1,Cloudy
+Erode,Tamil Nadu,2024-08-19,59.9,34.7,59.3,12.9,Cloudy
+Erode,Tamil Nadu,2024-08-26,32.2,34.0,67.5,24.1,Cloudy
+Erode,Tamil Nadu,2024-09-02,63.5,33.9,72.3,25.3,Cloudy
+Erode,Tamil Nadu,2024-09-09,78.4,32.4,81.2,24.7,Cloudy
+Erode,Tamil Nadu,2024-09-16,13.1,33.6,73.0,26.6,Cloudy
+Erode,Tamil Nadu,2024-09-23,13.7,33.1,62.3,20.8,Cloudy
+Erode,Tamil Nadu,2024-09-30,42.1,27.0,72.4,26.7,Rainy
+Salem,Tamil Nadu,2024-01-01,52.4,31.6,63.4,20.4,Sunny
+Salem,Tamil Nadu,2024-01-08,70.1,30.7,77.0,34.4,Cloudy
+Salem,Tamil Nadu,2024-01-15,39.3,33.9,73.5,24.1,Cloudy
+Salem,Tamil Nadu,2024-01-22,75.8,31.3,67.9,9.0,Sunny
+Salem,Tamil Nadu,2024-01-29,51.1,32.1,62.2,19.5,Cloudy
+Salem,Tamil Nadu,2024-02-05,16.0,26.0,59.0,12.7,Sunny
+Salem,Tamil Nadu,2024-02-12,31.5,32.8,58.9,23.6,Cloudy
+Salem,Tamil Nadu,2024-02-19,59.6,34.7,78.4,14.2,Cloudy
+Salem,Tamil Nadu,2024-02-26,25.3,27.6,67.2,20.7,Cloudy
+Salem,Tamil Nadu,2024-03-04,16.8,37.3,62.7,10.6,Sunny
+Salem,Tamil Nadu,2024-03-11,17.4,38.5,58.3,15.3,Cloudy
+Salem,Tamil Nadu,2024-03-18,9.7,36.0,44.2,24.1,Cloudy
+Salem,Tamil Nadu,2024-03-25,21.8,33.0,59.8,17.8,Sunny
+Salem,Tamil Nadu,2024-04-01,14.7,32.8,65.3,28.0,Sunny
+Salem,Tamil Nadu,2024-04-08,3.0,39.7,40.6,22.9,Cloudy
+Salem,Tamil Nadu,2024-04-15,29.2,33.5,61.4,10.0,Cloudy
+Salem,Tamil Nadu,2024-04-22,23.0,35.4,59.0,19.2,Cloudy
+Salem,Tamil Nadu,2024-04-29,7.1,37.9,50.0,12.5,Cloudy
+Salem,Tamil Nadu,2024-05-06,25.5,35.3,63.9,28.5,Sunny
+Salem,Tamil Nadu,2024-05-13,22.3,34.0,45.7,20.7,Cloudy
+Salem,Tamil Nadu,2024-05-20,1.8,36.6,55.7,10.1,Sunny
+Salem,Tamil Nadu,2024-05-27,7.3,35.6,53.5,8.3,Cloudy
+Salem,Tamil Nadu,2024-06-03,73.6,32.2,74.3,6.3,Rainy
+Salem,Tamil Nadu,2024-06-10,62.8,29.7,56.2,25.0,Rainy
+Salem,Tamil Nadu,2024-06-17,66.1,28.3,78.6,33.4,Cloudy
+Salem,Tamil Nadu,2024-06-24,41.1,28.8,79.5,25.3,Cloudy
+Salem,Tamil Nadu,2024-07-01,36.9,29.3,67.6,10.9,Cloudy
+Salem,Tamil Nadu,2024-07-08,17.6,30.6,62.4,14.4,Cloudy
+Salem,Tamil Nadu,2024-07-15,50.8,34.2,60.2,31.5,Sunny
+Salem,Tamil Nadu,2024-07-22,70.9,30.2,79.9,20.2,Cloudy
+Salem,Tamil Nadu,2024-07-29,65.8,31.3,55.8,9.6,Cloudy
+Salem,Tamil Nadu,2024-08-05,75.8,31.9,75.7,28.1,Rainy
+Salem,Tamil Nadu,2024-08-12,35.6,34.9,61.1,15.2,Sunny
+Salem,Tamil Nadu,2024-08-19,30.6,31.9,59.9,10.5,Sunny
+Salem,Tamil Nadu,2024-08-26,25.2,25.3,65.7,25.8,Rainy
+Salem,Tamil Nadu,2024-09-02,53.8,31.5,57.4,22.6,Cloudy
+Salem,Tamil Nadu,2024-09-09,30.1,31.3,61.4,25.2,Rainy
+Salem,Tamil Nadu,2024-09-16,43.8,27.6,61.4,22.6,Rainy
+Salem,Tamil Nadu,2024-09-23,38.9,32.2,75.0,9.7,Sunny
+Salem,Tamil Nadu,2024-09-30,75.9,34.0,77.7,12.9,Cloudy
+Tirunelveli,Tamil Nadu,2024-01-01,39.3,33.2,57.1,30.8,Sunny
+Tirunelveli,Tamil Nadu,2024-01-08,49.4,30.7,60.7,23.8,Cloudy
+Tirunelveli,Tamil Nadu,2024-01-15,58.0,26.8,57.3,29.4,Sunny
+Tirunelveli,Tamil Nadu,2024-01-22,30.8,33.9,55.6,7.4,Rainy
+Tirunelveli,Tamil Nadu,2024-01-29,76.0,28.3,66.4,9.8,Rainy
+Tirunelveli,Tamil Nadu,2024-02-05,23.2,34.7,69.7,23.5,Rainy
+Tirunelveli,Tamil Nadu,2024-02-12,78.5,29.4,81.4,8.4,Cloudy
+Tirunelveli,Tamil Nadu,2024-02-19,48.0,25.2,82.3,9.1,Sunny
+Tirunelveli,Tamil Nadu,2024-02-26,39.3,28.5,68.9,22.2,Sunny
+Tirunelveli,Tamil Nadu,2024-03-04,20.0,33.3,50.1,12.9,Sunny
+Tirunelveli,Tamil Nadu,2024-03-11,23.5,40.0,61.4,21.1,Sunny
+Tirunelveli,Tamil Nadu,2024-03-18,7.3,40.4,67.7,17.0,Rainy
+Tirunelveli,Tamil Nadu,2024-03-25,18.9,40.0,59.6,6.0,Sunny
+Tirunelveli,Tamil Nadu,2024-04-01,15.8,34.3,40.9,23.6,Sunny
+Tirunelveli,Tamil Nadu,2024-04-08,15.3,37.8,59.6,29.9,Sunny
+Tirunelveli,Tamil Nadu,2024-04-15,22.1,37.1,65.0,23.4,Cloudy
+Tirunelveli,Tamil Nadu,2024-04-22,17.2,38.4,52.8,17.3,Sunny
+Tirunelveli,Tamil Nadu,2024-04-29,3.4,40.9,41.0,16.4,Sunny
+Tirunelveli,Tamil Nadu,2024-05-06,25.6,40.4,43.2,10.0,Sunny
+Tirunelveli,Tamil Nadu,2024-05-13,3.3,39.2,66.9,18.4,Cloudy
+Tirunelveli,Tamil Nadu,2024-05-20,17.8,36.6,56.1,34.1,Sunny
+Tirunelveli,Tamil Nadu,2024-05-27,9.2,34.2,66.9,33.6,Sunny
+Tirunelveli,Tamil Nadu,2024-06-03,66.6,30.5,68.7,22.6,Cloudy
+Tirunelveli,Tamil Nadu,2024-06-10,18.4,31.1,72.5,15.0,Cloudy
+Tirunelveli,Tamil Nadu,2024-06-17,39.4,30.6,56.1,20.1,Rainy
+Tirunelveli,Tamil Nadu,2024-06-24,45.7,33.7,67.2,16.1,Rainy
+Tirunelveli,Tamil Nadu,2024-07-01,50.9,27.9,68.3,21.2,Cloudy
+Tirunelveli,Tamil Nadu,2024-07-08,25.3,31.7,79.8,13.9,Cloudy
+Tirunelveli,Tamil Nadu,2024-07-15,53.8,30.1,67.4,14.8,Sunny
+Tirunelveli,Tamil Nadu,2024-07-22,32.2,29.3,69.6,5.9,Cloudy
+Tirunelveli,Tamil Nadu,2024-07-29,44.5,29.0,63.7,8.9,Sunny
+Tirunelveli,Tamil Nadu,2024-08-05,25.1,26.7,82.1,17.5,Rainy
+Tirunelveli,Tamil Nadu,2024-08-12,39.7,32.5,82.6,12.4,Cloudy
+Tirunelveli,Tamil Nadu,2024-08-19,20.4,31.0,79.4,8.5,Sunny
+Tirunelveli,Tamil Nadu,2024-08-26,36.7,33.1,83.8,18.0,Cloudy
+Tirunelveli,Tamil Nadu,2024-09-02,55.9,29.8,82.6,20.4,Cloudy
+Tirunelveli,Tamil Nadu,2024-09-09,76.2,27.0,77.6,27.1,Sunny
+Tirunelveli,Tamil Nadu,2024-09-16,24.8,26.5,75.3,23.4,Cloudy
+Tirunelveli,Tamil Nadu,2024-09-23,67.4,30.0,62.7,24.5,Rainy
+Tirunelveli,Tamil Nadu,2024-09-30,51.4,28.0,72.1,7.4,Cloudy
+Villupuram,Tamil Nadu,2024-01-01,38.6,33.6,78.6,18.1,Rainy
+Villupuram,Tamil Nadu,2024-01-08,38.5,29.0,78.3,17.6,Sunny
+Villupuram,Tamil Nadu,2024-01-15,78.6,27.6,76.7,26.0,Cloudy
+Villupuram,Tamil Nadu,2024-01-22,53.9,31.0,56.5,32.8,Cloudy
+Villupuram,Tamil Nadu,2024-01-29,13.1,30.6,55.2,27.9,Sunny
+Villupuram,Tamil Nadu,2024-02-05,12.3,26.5,72.7,24.0,Cloudy
+Villupuram,Tamil Nadu,2024-02-12,64.3,28.9,60.6,10.3,Rainy
+Villupuram,Tamil Nadu,2024-02-19,55.2,25.9,66.1,10.5,Sunny
+Villupuram,Tamil Nadu,2024-02-26,14.1,31.3,68.3,22.2,Rainy
+Villupuram,Tamil Nadu,2024-03-04,14.5,33.9,44.7,10.0,Sunny
+Villupuram,Tamil Nadu,2024-03-11,24.6,38.7,60.9,26.4,Sunny
+Villupuram,Tamil Nadu,2024-03-18,9.0,33.3,42.7,11.4,Cloudy
+Villupuram,Tamil Nadu,2024-03-25,14.4,37.3,46.6,17.3,Sunny
+Villupuram,Tamil Nadu,2024-04-01,17.9,36.1,45.4,34.4,Sunny
+Villupuram,Tamil Nadu,2024-04-08,1.2,38.6,58.9,10.6,Rainy
+Villupuram,Tamil Nadu,2024-04-15,20.4,33.6,51.5,8.0,Rainy
+Villupuram,Tamil Nadu,2024-04-22,24.8,32.1,40.8,18.6,Sunny
+Villupuram,Tamil Nadu,2024-04-29,27.1,32.4,46.7,17.8,Cloudy
+Villupuram,Tamil Nadu,2024-05-06,29.8,40.1,48.5,28.4,Sunny
+Villupuram,Tamil Nadu,2024-05-13,29.2,35.1,56.9,8.1,Cloudy
+Villupuram,Tamil Nadu,2024-05-20,22.1,39.5,44.3,29.3,Sunny
+Villupuram,Tamil Nadu,2024-05-27,0.2,37.8,47.0,16.7,Cloudy
+Villupuram,Tamil Nadu,2024-06-03,18.0,31.1,72.9,22.2,Sunny
+Villupuram,Tamil Nadu,2024-06-10,34.0,30.1,84.2,22.4,Sunny
+Villupuram,Tamil Nadu,2024-06-17,72.9,27.7,67.8,6.1,Sunny
+Villupuram,Tamil Nadu,2024-06-24,29.5,25.9,71.7,13.1,Sunny
+Villupuram,Tamil Nadu,2024-07-01,19.7,31.5,72.1,14.1,Rainy
+Villupuram,Tamil Nadu,2024-07-08,65.6,33.9,69.1,19.3,Cloudy
+Villupuram,Tamil Nadu,2024-07-15,54.8,27.7,80.8,18.5,Rainy
+Villupuram,Tamil Nadu,2024-07-22,67.5,34.5,76.7,27.1,Cloudy
+Villupuram,Tamil Nadu,2024-07-29,38.0,25.5,63.9,15.5,Rainy
+Villupuram,Tamil Nadu,2024-08-05,28.6,31.7,57.3,30.3,Cloudy
+Villupuram,Tamil Nadu,2024-08-12,31.1,28.8,62.3,22.3,Sunny
+Villupuram,Tamil Nadu,2024-08-19,10.5,27.1,80.5,16.6,Cloudy
+Villupuram,Tamil Nadu,2024-08-26,25.1,28.8,74.2,26.1,Sunny
+Villupuram,Tamil Nadu,2024-09-02,25.9,25.1,71.2,18.8,Sunny
+Villupuram,Tamil Nadu,2024-09-09,45.0,26.0,80.9,31.5,Cloudy
+Villupuram,Tamil Nadu,2024-09-16,26.6,26.6,78.8,14.2,Rainy
+Villupuram,Tamil Nadu,2024-09-23,46.2,26.8,77.6,31.0,Cloudy
+Villupuram,Tamil Nadu,2024-09-30,50.8,27.2,55.2,19.5,Sunny
+Nagapattinam,Tamil Nadu,2024-01-01,30.9,34.8,81.9,13.4,Sunny
+Nagapattinam,Tamil Nadu,2024-01-08,73.2,31.9,69.8,12.1,Sunny
+Nagapattinam,Tamil Nadu,2024-01-15,74.4,29.6,61.9,14.4,Sunny
+Nagapattinam,Tamil Nadu,2024-01-22,53.6,27.7,55.9,21.7,Cloudy
+Nagapattinam,Tamil Nadu,2024-01-29,44.9,27.6,69.3,26.3,Cloudy
+Nagapattinam,Tamil Nadu,2024-02-05,18.7,34.4,57.4,32.1,Rainy
+Nagapattinam,Tamil Nadu,2024-02-12,61.0,32.8,69.9,5.1,Cloudy
+Nagapattinam,Tamil Nadu,2024-02-19,24.0,33.6,70.5,31.6,Sunny
+Nagapattinam,Tamil Nadu,2024-02-26,29.1,28.2,80.4,17.3,Sunny
+Nagapattinam,Tamil Nadu,2024-03-04,25.4,39.7,51.5,12.6,Sunny
+Nagapattinam,Tamil Nadu,2024-03-11,5.1,36.2,57.2,20.5,Sunny
+Nagapattinam,Tamil Nadu,2024-03-18,3.0,35.7,44.1,29.5,Sunny
+Nagapattinam,Tamil Nadu,2024-03-25,12.7,35.8,63.2,19.7,Cloudy
+Nagapattinam,Tamil Nadu,2024-04-01,23.7,39.7,68.1,10.4,Sunny
+Nagapattinam,Tamil Nadu,2024-04-08,2.9,35.1,60.6,29.6,Sunny
+Nagapattinam,Tamil Nadu,2024-04-15,10.3,33.8,49.3,28.1,Cloudy
+Nagapattinam,Tamil Nadu,2024-04-22,12.7,36.4,43.6,22.6,Sunny
+Nagapattinam,Tamil Nadu,2024-04-29,8.1,33.7,67.2,23.3,Sunny
+Nagapattinam,Tamil Nadu,2024-05-06,6.2,36.7,53.1,18.6,Sunny
+Nagapattinam,Tamil Nadu,2024-05-13,3.5,39.7,45.5,11.3,Cloudy
+Nagapattinam,Tamil Nadu,2024-05-20,25.7,40.3,55.0,31.7,Sunny
+Nagapattinam,Tamil Nadu,2024-05-27,11.6,35.6,61.8,5.5,Sunny
+Nagapattinam,Tamil Nadu,2024-06-03,30.0,32.8,83.4,34.4,Sunny
+Nagapattinam,Tamil Nadu,2024-06-10,67.2,31.4,61.0,29.4,Rainy
+Nagapattinam,Tamil Nadu,2024-06-17,69.2,27.9,83.3,22.5,Cloudy
+Nagapattinam,Tamil Nadu,2024-06-24,15.7,27.3,65.8,19.0,Sunny
+Nagapattinam,Tamil Nadu,2024-07-01,26.7,34.5,58.0,29.6,Rainy
+Nagapattinam,Tamil Nadu,2024-07-08,14.9,32.9,70.7,26.3,Rainy
+Nagapattinam,Tamil Nadu,2024-07-15,25.9,29.1,72.6,12.4,Sunny
+Nagapattinam,Tamil Nadu,2024-07-22,27.3,34.7,63.6,6.5,Sunny
+Nagapattinam,Tamil Nadu,2024-07-29,45.5,32.2,67.9,24.3,Cloudy
+Nagapattinam,Tamil Nadu,2024-08-05,43.5,31.0,81.6,26.0,Sunny
+Nagapattinam,Tamil Nadu,2024-08-12,38.9,32.5,66.9,15.3,Sunny
+Nagapattinam,Tamil Nadu,2024-08-19,14.7,27.3,76.5,26.3,Sunny
+Nagapattinam,Tamil Nadu,2024-08-26,73.9,26.3,76.0,33.9,Cloudy
+Nagapattinam,Tamil Nadu,2024-09-02,19.2,28.9,56.5,15.3,Sunny
+Nagapattinam,Tamil Nadu,2024-09-09,19.6,34.8,79.8,7.4,Sunny
+Nagapattinam,Tamil Nadu,2024-09-16,16.6,32.8,78.7,11.5,Rainy
+Nagapattinam,Tamil Nadu,2024-09-23,36.2,31.1,64.4,11.9,Rainy
+Nagapattinam,Tamil Nadu,2024-09-30,52.0,29.0,70.7,8.5,Sunny
+Mysuru,Karnataka,2024-01-01,82.3,25.9,69.6,10.3,Sunny
+Mysuru,Karnataka,2024-01-08,72.8,30.2,67.6,34.8,Cloudy
+Mysuru,Karnataka,2024-01-15,55.0,32.8,67.9,18.3,Rainy
+Mysuru,Karnataka,2024-01-22,14.2,32.2,72.1,11.3,Rainy
+Mysuru,Karnataka,2024-01-29,77.7,31.1,63.5,19.6,Cloudy
+Mysuru,Karnataka,2024-02-05,27.7,25.1,50.5,13.4,Cloudy
+Mysuru,Karnataka,2024-02-12,29.3,24.0,69.4,32.1,Sunny
+Mysuru,Karnataka,2024-02-19,34.9,26.7,78.4,17.8,Sunny
+Mysuru,Karnataka,2024-02-26,10.2,25.0,76.4,30.7,Sunny
+Mysuru,Karnataka,2024-03-04,8.0,39.7,55.8,33.0,Sunny
+Mysuru,Karnataka,2024-03-11,8.3,34.6,35.6,14.8,Cloudy
+Mysuru,Karnataka,2024-03-18,1.1,40.5,43.8,22.7,Cloudy
+Mysuru,Karnataka,2024-03-25,19.1,37.5,39.7,29.7,Sunny
+Mysuru,Karnataka,2024-04-01,8.0,37.8,58.5,35.0,Cloudy
+Mysuru,Karnataka,2024-04-08,10.8,40.8,57.7,19.7,Sunny
+Mysuru,Karnataka,2024-04-15,18.5,37.5,62.6,8.8,Sunny
+Mysuru,Karnataka,2024-04-22,18.6,36.2,57.7,11.4,Sunny
+Mysuru,Karnataka,2024-04-29,18.6,41.8,39.4,8.2,Sunny
+Mysuru,Karnataka,2024-05-06,11.0,41.6,38.5,7.9,Sunny
+Mysuru,Karnataka,2024-05-13,0.9,39.6,42.5,12.4,Sunny
+Mysuru,Karnataka,2024-05-20,10.5,36.0,47.1,26.3,Cloudy
+Mysuru,Karnataka,2024-05-27,5.7,33.2,51.2,30.7,Sunny
+Mysuru,Karnataka,2024-06-03,170.6,31.0,70.8,26.9,Rainy
+Mysuru,Karnataka,2024-06-10,133.1,22.7,65.6,15.7,Rainy
+Mysuru,Karnataka,2024-06-17,151.3,31.3,65.6,11.0,Rainy
+Mysuru,Karnataka,2024-06-24,125.2,31.0,69.5,7.7,Heavy Rain
+Mysuru,Karnataka,2024-07-01,85.3,24.4,71.5,28.2,Rainy
+Mysuru,Karnataka,2024-07-08,136.8,29.5,76.9,33.2,Heavy Rain
+Mysuru,Karnataka,2024-07-15,143.1,30.8,76.6,28.4,Rainy
+Mysuru,Karnataka,2024-07-22,128.2,27.6,82.8,31.5,Rainy
+Mysuru,Karnataka,2024-07-29,66.6,31.2,81.8,9.0,Rainy
+Mysuru,Karnataka,2024-08-05,131.1,22.9,68.5,14.7,Rainy
+Mysuru,Karnataka,2024-08-12,85.1,26.9,75.8,19.1,Cloudy
+Mysuru,Karnataka,2024-08-19,102.4,28.5,75.3,26.1,Cloudy
+Mysuru,Karnataka,2024-08-26,75.1,24.9,78.9,13.9,Rainy
+Mysuru,Karnataka,2024-09-02,60.9,22.0,67.5,27.3,Rainy
+Mysuru,Karnataka,2024-09-09,63.5,27.1,71.9,20.5,Rainy
+Mysuru,Karnataka,2024-09-16,65.0,25.6,87.0,29.5,Rainy
+Mysuru,Karnataka,2024-09-23,178.7,24.4,74.2,14.0,Rainy
+Mysuru,Karnataka,2024-09-30,156.7,31.2,82.9,17.4,Rainy
+Mandya,Karnataka,2024-01-01,22.1,29.2,66.1,16.6,Cloudy
+Mandya,Karnataka,2024-01-08,58.8,29.5,60.2,15.2,Sunny
+Mandya,Karnataka,2024-01-15,49.8,25.0,51.4,33.7,Rainy
+Mandya,Karnataka,2024-01-22,46.1,25.0,75.2,9.5,Cloudy
+Mandya,Karnataka,2024-01-29,64.5,29.3,53.1,24.1,Cloudy
+Mandya,Karnataka,2024-02-05,48.9,31.8,70.6,26.6,Sunny
+Mandya,Karnataka,2024-02-12,63.0,32.5,62.4,9.6,Cloudy
+Mandya,Karnataka,2024-02-19,51.7,24.8,51.0,18.6,Sunny
+Mandya,Karnataka,2024-02-26,15.9,32.4,51.4,11.3,Cloudy
+Mandya,Karnataka,2024-03-04,16.2,39.2,35.2,5.0,Cloudy
+Mandya,Karnataka,2024-03-11,10.6,37.5,47.3,18.6,Sunny
+Mandya,Karnataka,2024-03-18,13.9,34.9,56.8,20.1,Sunny
+Mandya,Karnataka,2024-03-25,16.1,35.8,39.4,7.1,Sunny
+Mandya,Karnataka,2024-04-01,16.0,34.9,47.9,30.8,Sunny
+Mandya,Karnataka,2024-04-08,14.4,33.7,50.8,13.8,Sunny
+Mandya,Karnataka,2024-04-15,9.3,34.7,62.8,16.5,Cloudy
+Mandya,Karnataka,2024-04-22,2.0,35.1,47.0,26.5,Sunny
+Mandya,Karnataka,2024-04-29,1.0,41.7,57.7,10.2,Cloudy
+Mandya,Karnataka,2024-05-06,15.1,38.0,59.5,13.8,Cloudy
+Mandya,Karnataka,2024-05-13,10.6,35.3,36.2,21.2,Sunny
+Mandya,Karnataka,2024-05-20,14.3,38.0,47.3,25.2,Sunny
+Mandya,Karnataka,2024-05-27,6.7,35.2,59.0,20.1,Cloudy
+Mandya,Karnataka,2024-06-03,142.4,23.4,81.5,28.6,Cloudy
+Mandya,Karnataka,2024-06-10,138.2,24.7,70.4,20.0,Cloudy
+Mandya,Karnataka,2024-06-17,91.4,31.1,75.7,10.3,Rainy
+Mandya,Karnataka,2024-06-24,179.3,26.5,68.0,27.1,Rainy
+Mandya,Karnataka,2024-07-01,89.6,29.8,83.7,14.3,Heavy Rain
+Mandya,Karnataka,2024-07-08,56.3,22.9,83.4,21.5,Cloudy
+Mandya,Karnataka,2024-07-15,148.5,25.7,88.3,14.1,Heavy Rain
+Mandya,Karnataka,2024-07-22,58.7,22.0,88.1,17.3,Rainy
+Mandya,Karnataka,2024-07-29,137.6,22.6,84.9,20.7,Cloudy
+Mandya,Karnataka,2024-08-05,62.4,31.6,69.4,11.7,Rainy
+Mandya,Karnataka,2024-08-12,175.8,30.1,80.8,18.3,Cloudy
+Mandya,Karnataka,2024-08-19,174.7,26.2,85.1,6.3,Cloudy
+Mandya,Karnataka,2024-08-26,133.4,26.4,75.6,22.3,Heavy Rain
+Mandya,Karnataka,2024-09-02,95.0,28.3,86.3,34.8,Rainy
+Mandya,Karnataka,2024-09-09,159.1,27.3,68.2,33.5,Cloudy
+Mandya,Karnataka,2024-09-16,152.3,30.3,88.8,33.1,Cloudy
+Mandya,Karnataka,2024-09-23,134.4,30.6,82.4,24.4,Rainy
+Mandya,Karnataka,2024-09-30,167.6,28.6,65.0,32.6,Rainy
+Guntur,Andhra Pradesh,2024-01-01,23.7,27.3,69.5,29.1,Sunny
+Guntur,Andhra Pradesh,2024-01-08,64.6,32.9,59.2,33.3,Sunny
+Guntur,Andhra Pradesh,2024-01-15,54.9,26.9,50.6,33.5,Cloudy
+Guntur,Andhra Pradesh,2024-01-22,14.3,30.1,79.2,13.2,Cloudy
+Guntur,Andhra Pradesh,2024-01-29,70.4,32.2,68.9,32.5,Cloudy
+Guntur,Andhra Pradesh,2024-02-05,49.6,25.4,56.5,10.4,Cloudy
+Guntur,Andhra Pradesh,2024-02-12,20.2,31.2,76.0,16.8,Cloudy
+Guntur,Andhra Pradesh,2024-02-19,21.3,26.1,78.1,23.5,Cloudy
+Guntur,Andhra Pradesh,2024-02-26,19.4,24.8,50.5,21.5,Sunny
+Guntur,Andhra Pradesh,2024-03-04,16.0,41.8,47.1,23.6,Sunny
+Guntur,Andhra Pradesh,2024-03-11,4.4,38.0,50.8,35.0,Cloudy
+Guntur,Andhra Pradesh,2024-03-18,9.8,39.7,56.6,30.6,Cloudy
+Guntur,Andhra Pradesh,2024-03-25,0.4,33.6,51.8,32.1,Cloudy
+Guntur,Andhra Pradesh,2024-04-01,11.0,36.2,54.8,25.7,Cloudy
+Guntur,Andhra Pradesh,2024-04-08,12.7,35.5,51.0,7.0,Sunny
+Guntur,Andhra Pradesh,2024-04-15,13.4,39.9,57.1,11.4,Cloudy
+Guntur,Andhra Pradesh,2024-04-22,6.0,35.9,58.0,17.3,Sunny
+Guntur,Andhra Pradesh,2024-04-29,7.3,39.9,52.6,5.3,Sunny
+Guntur,Andhra Pradesh,2024-05-06,0.3,33.6,51.1,7.1,Sunny
+Guntur,Andhra Pradesh,2024-05-13,11.6,40.8,42.6,18.8,Sunny
+Guntur,Andhra Pradesh,2024-05-20,7.8,33.2,62.3,18.2,Cloudy
+Guntur,Andhra Pradesh,2024-05-27,9.5,38.2,57.4,17.8,Cloudy
+Guntur,Andhra Pradesh,2024-06-03,130.7,31.1,71.5,10.3,Rainy
+Guntur,Andhra Pradesh,2024-06-10,157.6,22.9,78.6,13.0,Cloudy
+Guntur,Andhra Pradesh,2024-06-17,66.9,28.1,82.4,10.1,Cloudy
+Guntur,Andhra Pradesh,2024-06-24,110.6,26.3,78.9,33.4,Cloudy
+Guntur,Andhra Pradesh,2024-07-01,128.5,31.0,66.9,24.0,Rainy
+Guntur,Andhra Pradesh,2024-07-08,72.4,29.5,89.1,16.1,Cloudy
+Guntur,Andhra Pradesh,2024-07-15,127.8,28.3,80.3,8.2,Heavy Rain
+Guntur,Andhra Pradesh,2024-07-22,106.1,26.9,82.4,28.5,Rainy
+Guntur,Andhra Pradesh,2024-07-29,84.7,22.7,77.6,25.5,Cloudy
+Guntur,Andhra Pradesh,2024-08-05,165.1,31.4,79.5,31.6,Cloudy
+Guntur,Andhra Pradesh,2024-08-12,167.4,27.1,87.1,19.1,Rainy
+Guntur,Andhra Pradesh,2024-08-19,86.0,26.7,87.1,16.6,Rainy
+Guntur,Andhra Pradesh,2024-08-26,129.9,30.6,77.6,31.2,Heavy Rain
+Guntur,Andhra Pradesh,2024-09-02,68.2,30.3,88.9,7.3,Cloudy
+Guntur,Andhra Pradesh,2024-09-09,75.8,27.0,89.5,25.7,Cloudy
+Guntur,Andhra Pradesh,2024-09-16,116.2,22.4,70.0,31.6,Rainy
+Guntur,Andhra Pradesh,2024-09-23,172.8,28.3,70.3,18.3,Heavy Rain
+Guntur,Andhra Pradesh,2024-09-30,77.7,27.8,88.0,34.3,Cloudy
+Anantapur,Andhra Pradesh,2024-01-01,65.3,27.8,76.4,22.7,Rainy
+Anantapur,Andhra Pradesh,2024-01-08,20.7,27.3,73.0,17.8,Sunny
+Anantapur,Andhra Pradesh,2024-01-15,62.4,30.3,79.0,27.9,Sunny
+Anantapur,Andhra Pradesh,2024-01-22,82.0,29.1,54.3,18.2,Cloudy
+Anantapur,Andhra Pradesh,2024-01-29,20.9,31.2,72.7,21.6,Rainy
+Anantapur,Andhra Pradesh,2024-02-05,19.2,29.7,55.8,27.0,Rainy
+Anantapur,Andhra Pradesh,2024-02-12,11.6,26.0,58.8,6.9,Rainy
+Anantapur,Andhra Pradesh,2024-02-19,16.6,24.6,60.3,28.2,Sunny
+Anantapur,Andhra Pradesh,2024-02-26,84.5,34.0,71.9,32.6,Sunny
+Anantapur,Andhra Pradesh,2024-03-04,14.6,38.0,58.6,13.5,Sunny
+Anantapur,Andhra Pradesh,2024-03-11,13.6,34.5,64.9,32.1,Sunny
+Anantapur,Andhra Pradesh,2024-03-18,7.9,34.9,43.9,28.4,Cloudy
+Anantapur,Andhra Pradesh,2024-03-25,0.3,36.3,62.0,30.5,Sunny
+Anantapur,Andhra Pradesh,2024-04-01,4.8,37.8,45.1,8.4,Sunny
+Anantapur,Andhra Pradesh,2024-04-08,1.6,38.7,58.3,7.7,Sunny
+Anantapur,Andhra Pradesh,2024-04-15,11.6,37.2,58.1,8.6,Cloudy
+Anantapur,Andhra Pradesh,2024-04-22,1.3,40.9,36.0,20.9,Cloudy
+Anantapur,Andhra Pradesh,2024-04-29,4.8,39.0,60.8,9.4,Sunny
+Anantapur,Andhra Pradesh,2024-05-06,15.9,41.0,60.8,12.9,Sunny
+Anantapur,Andhra Pradesh,2024-05-13,3.6,33.8,52.5,33.6,Sunny
+Anantapur,Andhra Pradesh,2024-05-20,19.8,39.2,36.1,32.2,Cloudy
+Anantapur,Andhra Pradesh,2024-05-27,6.5,38.5,46.4,13.0,Cloudy
+Anantapur,Andhra Pradesh,2024-06-03,74.0,24.7,84.1,22.2,Cloudy
+Anantapur,Andhra Pradesh,2024-06-10,118.5,31.3,79.7,18.4,Rainy
+Anantapur,Andhra Pradesh,2024-06-17,109.2,25.1,73.1,28.5,Rainy
+Anantapur,Andhra Pradesh,2024-06-24,149.7,22.7,78.9,13.0,Cloudy
+Anantapur,Andhra Pradesh,2024-07-01,60.2,29.4,72.7,22.8,Cloudy
+Anantapur,Andhra Pradesh,2024-07-08,57.4,26.8,83.5,18.3,Rainy
+Anantapur,Andhra Pradesh,2024-07-15,124.7,31.6,74.3,21.2,Rainy
+Anantapur,Andhra Pradesh,2024-07-22,63.4,29.1,79.9,21.3,Rainy
+Anantapur,Andhra Pradesh,2024-07-29,100.0,24.9,78.9,32.2,Heavy Rain
+Anantapur,Andhra Pradesh,2024-08-05,112.2,28.8,68.1,18.1,Rainy
+Anantapur,Andhra Pradesh,2024-08-12,52.4,30.4,76.5,32.0,Rainy
+Anantapur,Andhra Pradesh,2024-08-19,100.7,22.7,75.9,13.6,Cloudy
+Anantapur,Andhra Pradesh,2024-08-26,170.7,23.3,71.9,25.9,Rainy
+Anantapur,Andhra Pradesh,2024-09-02,73.2,30.3,79.8,7.3,Cloudy
+Anantapur,Andhra Pradesh,2024-09-09,91.9,30.1,67.6,6.9,Heavy Rain
+Anantapur,Andhra Pradesh,2024-09-16,162.4,28.6,69.0,9.4,Rainy
+Anantapur,Andhra Pradesh,2024-09-23,168.9,25.9,83.2,33.2,Rainy
+Anantapur,Andhra Pradesh,2024-09-30,124.1,29.4,71.8,18.5,Rainy
+Thrissur,Kerala,2024-01-01,99.0,26.8,90.0,26.2,Sunny
+Thrissur,Kerala,2024-01-08,62.5,24.8,82.1,32.3,Rainy
+Thrissur,Kerala,2024-01-15,31.7,29.9,66.8,13.8,Sunny
+Thrissur,Kerala,2024-01-22,54.7,28.0,78.4,24.1,Rainy
+Thrissur,Kerala,2024-01-29,31.8,32.1,80.3,11.7,Rainy
+Thrissur,Kerala,2024-02-05,35.8,31.4,72.7,20.1,Sunny
+Thrissur,Kerala,2024-02-12,27.6,28.0,75.0,11.3,Rainy
+Thrissur,Kerala,2024-02-19,42.8,28.2,73.3,15.0,Rainy
+Thrissur,Kerala,2024-02-26,64.6,29.7,67.7,18.6,Sunny
+Thrissur,Kerala,2024-03-04,91.5,29.2,69.0,10.1,Cloudy
+Thrissur,Kerala,2024-03-11,97.5,30.0,70.1,23.0,Cloudy
+Thrissur,Kerala,2024-03-18,85.9,26.6,78.0,16.2,Rainy
+Thrissur,Kerala,2024-03-25,80.7,26.8,80.6,16.6,Rainy
+Thrissur,Kerala,2024-04-01,46.1,25.8,60.8,32.9,Rainy
+Thrissur,Kerala,2024-04-08,44.8,31.5,65.3,12.9,Sunny
+Thrissur,Kerala,2024-04-15,82.3,25.1,72.8,17.6,Rainy
+Thrissur,Kerala,2024-04-22,79.7,28.4,63.1,14.5,Cloudy
+Thrissur,Kerala,2024-04-29,27.0,31.8,67.4,11.7,Rainy
+Thrissur,Kerala,2024-05-06,80.7,25.4,87.9,14.1,Sunny
+Thrissur,Kerala,2024-05-13,24.2,31.0,78.4,19.6,Cloudy
+Thrissur,Kerala,2024-05-20,68.7,30.5,80.8,10.2,Cloudy
+Thrissur,Kerala,2024-05-27,73.6,31.9,71.7,34.4,Cloudy
+Thrissur,Kerala,2024-06-03,241.0,24.2,80.0,13.7,Rainy
+Thrissur,Kerala,2024-06-10,271.2,26.2,83.7,25.6,Rainy
+Thrissur,Kerala,2024-06-17,181.7,29.9,85.9,29.3,Heavy Rain
+Thrissur,Kerala,2024-06-24,123.1,23.6,89.5,27.3,Heavy Rain
+Thrissur,Kerala,2024-07-01,239.4,24.7,87.6,11.5,Heavy Rain
+Thrissur,Kerala,2024-07-08,185.7,25.2,90.4,29.7,Heavy Rain
+Thrissur,Kerala,2024-07-15,281.6,25.7,95.0,16.6,Heavy Rain
+Thrissur,Kerala,2024-07-22,234.0,24.6,85.6,33.1,Heavy Rain
+Thrissur,Kerala,2024-07-29,179.4,29.6,94.3,17.8,Heavy Rain
+Thrissur,Kerala,2024-08-05,166.9,29.7,82.8,31.9,Rainy
+Thrissur,Kerala,2024-08-12,154.9,26.1,91.0,16.1,Rainy
+Thrissur,Kerala,2024-08-19,292.2,27.8,83.2,15.1,Rainy
+Thrissur,Kerala,2024-08-26,244.3,26.7,89.9,16.9,Rainy
+Thrissur,Kerala,2024-09-02,148.2,25.9,97.8,8.5,Rainy
+Thrissur,Kerala,2024-09-09,197.7,25.1,86.2,31.6,Heavy Rain
+Thrissur,Kerala,2024-09-16,189.1,23.7,87.0,13.9,Heavy Rain
+Thrissur,Kerala,2024-09-23,195.5,23.1,80.5,15.2,Rainy
+Thrissur,Kerala,2024-09-30,151.8,28.2,90.7,11.6,Heavy Rain
+Palakkad,Kerala,2024-01-01,97.5,26.9,71.0,30.1,Sunny
+Palakkad,Kerala,2024-01-08,82.9,30.1,83.5,24.8,Cloudy
+Palakkad,Kerala,2024-01-15,99.8,27.5,67.7,30.2,Rainy
+Palakkad,Kerala,2024-01-22,32.3,27.8,75.9,34.5,Sunny
+Palakkad,Kerala,2024-01-29,70.2,24.0,86.9,32.0,Cloudy
+Palakkad,Kerala,2024-02-05,87.4,28.6,89.7,8.0,Sunny
+Palakkad,Kerala,2024-02-12,85.4,32.2,81.4,32.0,Rainy
+Palakkad,Kerala,2024-02-19,61.1,32.3,84.6,24.7,Sunny
+Palakkad,Kerala,2024-02-26,73.0,30.6,86.6,5.1,Cloudy
+Palakkad,Kerala,2024-03-04,71.9,28.0,87.6,10.9,Cloudy
+Palakkad,Kerala,2024-03-11,24.0,25.3,65.3,13.0,Cloudy
+Palakkad,Kerala,2024-03-18,52.4,28.9,67.0,25.7,Rainy
+Palakkad,Kerala,2024-03-25,98.8,24.6,81.9,22.8,Rainy
+Palakkad,Kerala,2024-04-01,50.4,25.8,83.7,33.8,Cloudy
+Palakkad,Kerala,2024-04-08,44.6,30.0,60.8,26.3,Rainy
+Palakkad,Kerala,2024-04-15,76.4,30.3,85.6,15.4,Cloudy
+Palakkad,Kerala,2024-04-22,61.4,29.6,77.2,5.6,Cloudy
+Palakkad,Kerala,2024-04-29,85.7,26.3,88.0,13.3,Cloudy
+Palakkad,Kerala,2024-05-06,87.1,24.2,65.8,9.4,Sunny
+Palakkad,Kerala,2024-05-13,48.4,32.8,79.5,27.7,Cloudy
+Palakkad,Kerala,2024-05-20,78.4,27.2,67.5,24.0,Cloudy
+Palakkad,Kerala,2024-05-27,95.0,30.4,69.4,27.5,Cloudy
+Palakkad,Kerala,2024-06-03,208.4,25.3,85.4,32.2,Heavy Rain
+Palakkad,Kerala,2024-06-10,257.8,24.1,91.4,25.4,Heavy Rain
+Palakkad,Kerala,2024-06-17,280.7,27.1,82.3,32.3,Heavy Rain
+Palakkad,Kerala,2024-06-24,131.4,24.5,93.9,14.4,Storm
+Palakkad,Kerala,2024-07-01,150.8,24.2,94.6,16.4,Rainy
+Palakkad,Kerala,2024-07-08,265.3,23.5,83.5,26.8,Rainy
+Palakkad,Kerala,2024-07-15,242.9,29.5,83.8,32.3,Heavy Rain
+Palakkad,Kerala,2024-07-22,151.3,23.6,89.0,26.5,Heavy Rain
+Palakkad,Kerala,2024-07-29,210.5,23.8,85.7,11.2,Rainy
+Palakkad,Kerala,2024-08-05,135.7,27.5,91.6,23.0,Heavy Rain
+Palakkad,Kerala,2024-08-12,138.1,25.8,85.1,6.7,Rainy
+Palakkad,Kerala,2024-08-19,166.7,23.8,80.5,9.1,Rainy
+Palakkad,Kerala,2024-08-26,164.7,28.5,89.0,8.8,Rainy
+Palakkad,Kerala,2024-09-02,228.1,23.7,88.6,33.3,Heavy Rain
+Palakkad,Kerala,2024-09-09,262.1,29.5,85.5,9.3,Rainy
+Palakkad,Kerala,2024-09-16,266.1,23.5,93.8,30.3,Heavy Rain
+Palakkad,Kerala,2024-09-23,168.2,29.7,89.9,5.0,Rainy
+Palakkad,Kerala,2024-09-30,164.6,26.3,84.0,8.9,Rainy
